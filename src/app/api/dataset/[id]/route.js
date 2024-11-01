@@ -11,6 +11,7 @@ export async function GET(request, { params }) {
     const url = new URL(request.url);
     const page = url.searchParams.get('page') || '1';
     const limit = url.searchParams.get('limit') || '10';
+    const search = url.searchParams.get('search') || '';
 
     const pageNum = page === 'all' ? null : parseInt(page, 10);
     const limitNum = parseInt(limit, 10);
@@ -21,16 +22,24 @@ export async function GET(request, { params }) {
             [questions] = await connection.execute(`SELECT * FROM dataset_questions WHERE file_id = ?`, [dataset_id]);
         } else {
             const offset = (pageNum - 1) * limitNum;
+            if(search){
+            [questions] = await connection.execute(
+                `SELECT * FROM dataset_questions WHERE file_id = ? AND (question LIKE ? OR answer LIKE ?) LIMIT ${limitNum} OFFSET ${offset}`,
+                [dataset_id, `%${search}%`, `%${search}%`]
+            );
+        }else{
             [questions] = await connection.execute(
                 `SELECT * FROM dataset_questions WHERE file_id = ? LIMIT ${limitNum} OFFSET ${offset}`,
                 [dataset_id]
             );
         }
+        }
 
         const [dataset] = await connection.execute(`SELECT * FROM dataset_files WHERE id = ?`, [dataset_id]);
+        const [totalQ] = await connection.execute(`select count(*) as count from dataset_questions where file_id = ${dataset_id}`)
 
         if (questions.length > 0) {
-            return NextResponse.json({ questions, totalQuestions: questions.length, dataset: dataset[0] }, { status: 200 });
+            return NextResponse.json({ questions, totalQuestions: totalQ[0].count, dataset: dataset[0] }, { status: 200 });
         } else {
             return NextResponse.json({ message: 'No questions found for this dataset.' }, { status: 404 });
         }

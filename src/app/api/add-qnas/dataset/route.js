@@ -17,6 +17,9 @@ export const POST = async (req) => {
 
     const formData = await req.formData();
     const file = formData.get('file');
+    const status = formData.get('status');
+    const ip = formData.get('ip');
+    const category = formData.get('category')
     if (!file || !file.name) {
         return NextResponse.json({ message: 'File not provided' }, { status: 400 });
     }
@@ -100,26 +103,28 @@ export const POST = async (req) => {
     }
 
     if (!isValidContent) {
+        fs.unlink(filePath, (err) => {
+            if (err) console.error('Error deleting file:', err);
+        });
         return NextResponse.json({ message: 'Invalid file content format' }, { status: 400 });
     }
+    
 
     let connection;
     try {
         connection = await db();
         const [result] = await connection.execute(
             `INSERT INTO dataset_files (name, type, category, size, ip, created_by, status) VALUES (?, ?, ?, ?, ?, ?, ?)`,
-            [fileName, fileExt, req.headers.get('category'), fileSize, req.headers.get('ip'), user.id, req.headers.get('status')]
+            [fileName, fileExt, category, fileSize, ip, user.id, status]
         );
 
         const fileId = result.insertId;
-        const questionPromises = questions.map(({ question, answer }) =>
-            connection.execute(
-                `INSERT INTO dataset_questions (question, answer, file_id, status, created_by) VALUES (?, ?, ?, ?, ?)`,
-                [question, answer, fileId, req.headers.get('status'), user.id]
-            )
-        );
+        const values = questions.map(({ question, answer }) => [question, answer, fileId, status, user.id]);
+await connection.query(
+    `INSERT INTO dataset_questions (question, answer, file_id, status, created_by) VALUES ?`,
+    [values]
+);
 
-        await Promise.all(questionPromises);
         return NextResponse.json({ message: 'Dataset uploaded and questions are added' });
     } catch (error) {
         console.error('Database error:', error);

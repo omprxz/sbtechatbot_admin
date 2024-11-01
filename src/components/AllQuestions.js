@@ -1,90 +1,242 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import axios from "axios";
-import QuestionCard from "@/components/QuestionCard"; // The component for displaying individual questions
+import { useRouter } from "next/navigation";
 
-const AllQuestions = () => {
-    const [questions, setQuestions] = useState([]);
-    const [page, setPage] = useState(1);
-    const [totalPages, setTotalPages] = useState(1);
-    const [loading, setLoading] = useState(true); // Loading state
-    const limit = 10;
+const DatasetPage = () => {
+  const router = useRouter();
+  const id = 27;
+  const [questions, setQuestions] = useState([]);
+  const [categories, setCategories] = useState([]);
+  const [error, setError] = useState("");
+  const [loadingQuestions, setLoadingQuestions] = useState(true);
+  const [loadingCategories, setLoadingCategories] = useState(true);
+  const [loadingUpdate, setLoadingUpdate] = useState(false);
+  const [currentPage, setCurrentPage] = useState(1);
+  const [totalPages, setTotalPages] = useState(1);
+  const [itemsPerPage, setItemsPerPage] = useState(10);
+  const [searchQ, setSearchQ] = useState("")
 
-    useEffect(() => {
-        const fetchQuestions = async () => {
-            setLoading(true); // Set loading to true before the request
-            try {
-                const response = await axios.get(`/api/questions?page=${page}&limit=${limit}`);
-                setQuestions(response.data.questions);
-                setTotalPages(Math.ceil(response.data.totalCount / limit));
-            } catch (error) {
-                console.error('Failed to fetch questions:', error);
-            } finally {
-                setLoading(false); // Set loading to false after the request
-            }
-        };
+  const fetchQuestions = async (page = 1, itemsPerPageF = 10) => {
+    setLoadingQuestions(true);
+    try {
+      let response;
+      if(searchQ){
+        response = await axios.get(`/api/questions`, {
+          params: { page, limit: itemsPerPageF, search: searchQ },
+        });
+      }else{
+      response = await axios.get(`/api/questions`, {
+        params: { page, limit: itemsPerPageF },
+      });
+    }
+      setQuestions(response.data.questions || []);
+      setTotalPages(Math.ceil(response.data.totalQuestions / itemsPerPageF));
+    } catch (error) {
+      setError("Failed to fetch questions.");
+    } finally {
+      setLoadingQuestions(false);
+    }
+  };
 
-        fetchQuestions();
-    }, [page]);
-
-    const handleUpdate = async (id, updatedData) => {
-        try {
-            await axios.put(`/api/questions/${id}`, updatedData);
-            setQuestions(prevQuestions => prevQuestions.map(q => (q.id === id ? { ...q, ...updatedData } : q)));
-        } catch (error) {
-            console.error('Failed to update question:', error);
-        }
+  useEffect(() => {
+    fetchQuestions(currentPage, itemsPerPage);
+    const fetchCategories = async () => {
+      setLoadingCategories(true);
+      try {
+        const response = await axios.get("/api/categories");
+        setCategories(response.data.categories || []);
+      } catch (error) {
+        console.error("Failed to fetch categories.");
+      } finally {
+        setLoadingCategories(false);
+      }
     };
+    fetchCategories();
+  }, [id]);
 
-    const handleDelete = async (id) => {
-        if (confirm("Are you sure you want to delete this question?")) {
-            try {
-                await axios.delete(`/api/questions/${id}`);
-                setQuestions(questions.filter(q => q.id !== id));
-            } catch (error) {
-                console.error('Failed to delete question:', error);
-            }
-        }
-    };
+  const handlePageChange = (newPage) => {
+    if (newPage > 0 && newPage <= totalPages) {
+      setCurrentPage(newPage);
+      fetchQuestions(newPage, itemsPerPage);
+    }
+  };
 
-    return (
-        <div>
-            {loading ? (
-                <p>Loading questions...</p> // Show loading state
-            ) : questions.length === 0 ? (
-                <p>No questions available.</p>
-            ) : (
-                questions.map(question => (
-                    <QuestionCard 
-                        key={question.id} 
-                        question={question} 
-                        onUpdate={handleUpdate} 
-                        onDelete={handleDelete}  
-                    />
-                ))
-            )}
+  const handleUpdateQuestion = async (questionId, updatedQuestion) => {
+    setLoadingUpdate(true);
+    try {
+      await axios.put(`/api/questions/${questionId}`, updatedQuestion);
+      setQuestions((prevQuestions) =>
+        prevQuestions.map((question) =>
+          question.id === questionId
+            ? { ...question, ...updatedQuestion }
+            : question
+        )
+      );
+    } catch (error) {
+      setError("Failed to update question.");
+    } finally {
+      setLoadingUpdate(false);
+    }
+  };
 
-            {/* Pagination Controls */}
-            <div className="mt-4 flex justify-between items-center">
-                <button
-                    className="btn btn-secondary"
-                    onClick={() => setPage(prev => Math.max(prev - 1, 1))}
-                    disabled={page === 1}
-                >
-                    Previous
-                </button>
-                <span className="text-lg">Page {page} of {totalPages}</span>
-                <button
-                    className="btn btn-secondary"
-                    onClick={() => setPage(prev => Math.min(prev + 1, totalPages))}
-                    disabled={page === totalPages}
-                >
-                    Next
-                </button>
-            </div>
-        </div>
+  const handleDeleteQuestion = async (questionId) => {
+    if (confirm("Are you sure you want to delete this question?")) {
+      try {
+        await axios.delete(`/api/questions/${questionId}`);
+        setQuestions(
+          questions.filter((question) => question.id !== questionId)
+        );
+      } catch (error) {
+        setError("Failed to delete question.");
+      }
+    }
+  };
+
+  const toggleEditMode = (questionId) => {
+    setQuestions((prevQuestions) =>
+      prevQuestions.map((question) =>
+        question.id === questionId
+          ? { ...question, isEditing: !question.isEditing }
+          : question
+      )
     );
+  };
+
+  const handleItemsPerPageChange = async (e) => {
+    setItemsPerPage(e.target.value)
+    await fetchQuestions(1, e.target.value)
+  }
+
+  return (
+    <div className="container mx-auto p-4">
+      <div className="flex flex-col justify-center items-center sm:flex-row gap-5">
+      <div>
+        <input type="text" className="border p-1.5 rounded-md" placeholder="Search questions..." onChange={(e) => setSearchQ(e.target.value)} onBlur={() => fetchQuestions(1, itemsPerPage)} />
+      </div>
+      <div className="flex items-center gap-x-3">
+        <select name="itemsPerPage" className="border p-1 rounded-md border-gray-600" value={itemsPerPage} onChange={handleItemsPerPageChange}>
+          <option value="1">1</option>
+          <option value="10">10</option>
+          <option value="20">20</option>
+          <option value="50">50</option>
+          <option value="100">100</option>
+        </select>
+      </div>
+      </div>
+      {error && <p className="text-red-600">{error}</p>}
+      <h2 className="text-xl font-bold my-4">Questions</h2>
+      {loadingQuestions || loadingCategories ? (
+        <p>Loading...</p>
+      ) : (
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          {questions.length === 0 ? (
+            <div className="col-span-full text-center">
+              <p>No questions available.</p>
+            </div>
+          ) : (
+            questions.map((question) => (
+              <div key={question.id} className="card bg-base-100 shadow-md p-4">
+                <div className="card-body">
+                  {question.isEditing ? (
+                    <>
+                      <textarea
+                        className="textarea textarea-bordered w-full mb-2"
+                        value={question.question}
+                        onChange={(e) => {
+                          question.question = e.target.value;
+                          setQuestions([...questions]);
+                        }}
+                      />
+                      <textarea
+                        className="textarea textarea-bordered w-full mb-2"
+                        value={question.answer}
+                        onChange={(e) => {
+                          question.answer = e.target.value;
+                          setQuestions([...questions]);
+                        }}
+                      />
+                      <select
+                        className="select select-bordered w-full mb-2"
+                        value={question.status}
+                        onChange={(e) => {
+                          question.status = e.target.value;
+                          setQuestions([...questions]);
+                        }}
+                      >
+                        <option value="active">Active</option>
+                        <option value="inactive">Inactive</option>
+                      </select>
+                    </>
+                  ) : (
+                    <>
+                      <p className="text-lg font-semibold">
+                        {question.question}
+                      </p>
+                      <p>
+                        <strong>Answer:</strong> {question.answer}
+                      </p>
+                      <p>
+                        <strong>Status:</strong> {question.status}
+                      </p>
+                    </>
+                  )}
+                  <div className="flex justify-between items-center mt-4">
+                    <div>
+                      <button
+                        className="btn btn-secondary btn-sm mr-2"
+                        onClick={() => {
+                          if (question.isEditing) {
+                            handleUpdateQuestion(question.id, {
+                              question: question.question,
+                              answer: question.answer,
+                              status: question.status,
+                            });
+                          }
+                          toggleEditMode(question.id);
+                        }}
+                        disabled={loadingUpdate}
+                      >
+                        {question.isEditing ? "Save" : "Edit"}
+                      </button>
+                      <button
+                        className="btn btn-error btn-sm"
+                        onClick={() => handleDeleteQuestion(question.id)}
+                      >
+                        Delete
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            ))
+          )}
+        </div>
+      )}
+
+      {/* Pagination Controls */}
+      <div className="flex justify-center items-center mt-6 space-x-7">
+        <button 
+          onClick={() => handlePageChange(currentPage - 1)} 
+          className="btn btn-outline" 
+          disabled={currentPage == 1}
+        >
+          Previous
+        </button>
+        <div className="text-center">Page <input type="number" value={currentPage} className="border-2 py-1 mx-2 rounded-md w-16 text-center" max={totalPages} min={1} onChange={(e) => {
+          setCurrentPage(e.target.value)}} onBlur={(e) => {
+            handlePageChange(e.target.value)}} /> of {totalPages}</div>
+        <button 
+          onClick={() => handlePageChange(currentPage + 1)} 
+          className="btn btn-outline" 
+          disabled={currentPage == totalPages}
+        >
+          Next
+        </button>
+      </div>
+    </div>
+  );
 };
 
-export default AllQuestions;
+export default DatasetPage;

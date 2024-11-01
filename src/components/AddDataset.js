@@ -56,13 +56,13 @@ const AddDataset = () => {
 
     const formData = new FormData();
     formData.append("file", file);
+    formData.append("status", selectedStatus)
+    formData.append("category", categoryToSubmit)
 
     try {
       const response = await axios.post("/api/add-qnas/dataset", formData, {
         headers: {
-          "Content-Type": "multipart/form-data",
-          category: categoryToSubmit,
-          status: selectedStatus,
+          "Content-Type": "multipart/form-data"
         },
         withCredentials: true,
       });

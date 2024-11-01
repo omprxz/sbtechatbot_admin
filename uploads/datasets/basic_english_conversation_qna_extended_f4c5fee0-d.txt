@@ -1,0 +1,4600 @@
+Q: Hi, how are you?
+A: I'm good, thank you! How about you?
+END;
+
+Q: What's your name?
+A: My name is ChatBot. What's yours?
+END;
+
+Q: What are you doing?
+A: Just here to help you out! What can I do for you?
+END;
+
+Q: How's the weather?
+A: It's nice and sunny here! How about where you are?
+END;
+
+Q: What do you like to do?
+A: I enjoy chatting and learning new things. How about you?
+END;
+
+Q: What's your favorite color?
+A: I like all colors, but maybe blue the most!
+END;
+
+Q: Do you have any hobbies?
+A: I enjoy helping people. Do you have any hobbies?
+END;
+
+Q: What's the time?
+A: I don't have a clock, but you can check one nearby!
+END;
+
+Q: Do you know any jokes?
+A: Why did the scarecrow win an award? Because he was outstanding in his field!
+END;
+
+Q: How old are you?
+A: I was created recently, so I'm pretty young!
+END;
+
+Q: What can you tell me about topic 40?
+A: I can tell you some interesting facts about topic 40.
+END;
+
+Q: How do you feel about subject 40?
+A: I think subject 40 is quite fascinating!
+END;
+
+Q: Can you help me with query 40?
+A: Of course, I'm here to help with query 40!
+END;
+
+Q: What can you tell me about topic 41?
+A: I can tell you some interesting facts about topic 41.
+END;
+
+Q: How do you feel about subject 41?
+A: I think subject 41 is quite fascinating!
+END;
+
+Q: Can you help me with query 41?
+A: Of course, I'm here to help with query 41!
+END;
+
+Q: What can you tell me about topic 42?
+A: I can tell you some interesting facts about topic 42.
+END;
+
+Q: How do you feel about subject 42?
+A: I think subject 42 is quite fascinating!
+END;
+
+Q: Can you help me with query 42?
+A: Of course, I'm here to help with query 42!
+END;
+
+Q: What can you tell me about topic 43?
+A: I can tell you some interesting facts about topic 43.
+END;
+
+Q: How do you feel about subject 43?
+A: I think subject 43 is quite fascinating!
+END;
+
+Q: Can you help me with query 43?
+A: Of course, I'm here to help with query 43!
+END;
+
+Q: What can you tell me about topic 44?
+A: I can tell you some interesting facts about topic 44.
+END;
+
+Q: How do you feel about subject 44?
+A: I think subject 44 is quite fascinating!
+END;
+
+Q: Can you help me with query 44?
+A: Of course, I'm here to help with query 44!
+END;
+
+Q: What can you tell me about topic 45?
+A: I can tell you some interesting facts about topic 45.
+END;
+
+Q: How do you feel about subject 45?
+A: I think subject 45 is quite fascinating!
+END;
+
+Q: Can you help me with query 45?
+A: Of course, I'm here to help with query 45!
+END;
+
+Q: What can you tell me about topic 46?
+A: I can tell you some interesting facts about topic 46.
+END;
+
+Q: How do you feel about subject 46?
+A: I think subject 46 is quite fascinating!
+END;
+
+Q: Can you help me with query 46?
+A: Of course, I'm here to help with query 46!
+END;
+
+Q: What can you tell me about topic 47?
+A: I can tell you some interesting facts about topic 47.
+END;
+
+Q: How do you feel about subject 47?
+A: I think subject 47 is quite fascinating!
+END;
+
+Q: Can you help me with query 47?
+A: Of course, I'm here to help with query 47!
+END;
+
+Q: What can you tell me about topic 48?
+A: I can tell you some interesting facts about topic 48.
+END;
+
+Q: How do you feel about subject 48?
+A: I think subject 48 is quite fascinating!
+END;
+
+Q: Can you help me with query 48?
+A: Of course, I'm here to help with query 48!
+END;
+
+Q: What can you tell me about topic 49?
+A: I can tell you some interesting facts about topic 49.
+END;
+
+Q: How do you feel about subject 49?
+A: I think subject 49 is quite fascinating!
+END;
+
+Q: Can you help me with query 49?
+A: Of course, I'm here to help with query 49!
+END;
+
+Q: What can you tell me about topic 50?
+A: I can tell you some interesting facts about topic 50.
+END;
+
+Q: How do you feel about subject 50?
+A: I think subject 50 is quite fascinating!
+END;
+
+Q: Can you help me with query 50?
+A: Of course, I'm here to help with query 50!
+END;
+
+Q: What can you tell me about topic 51?
+A: I can tell you some interesting facts about topic 51.
+END;
+
+Q: How do you feel about subject 51?
+A: I think subject 51 is quite fascinating!
+END;
+
+Q: Can you help me with query 51?
+A: Of course, I'm here to help with query 51!
+END;
+
+Q: What can you tell me about topic 52?
+A: I can tell you some interesting facts about topic 52.
+END;
+
+Q: How do you feel about subject 52?
+A: I think subject 52 is quite fascinating!
+END;
+
+Q: Can you help me with query 52?
+A: Of course, I'm here to help with query 52!
+END;
+
+Q: What can you tell me about topic 53?
+A: I can tell you some interesting facts about topic 53.
+END;
+
+Q: How do you feel about subject 53?
+A: I think subject 53 is quite fascinating!
+END;
+
+Q: Can you help me with query 53?
+A: Of course, I'm here to help with query 53!
+END;
+
+Q: What can you tell me about topic 54?
+A: I can tell you some interesting facts about topic 54.
+END;
+
+Q: How do you feel about subject 54?
+A: I think subject 54 is quite fascinating!
+END;
+
+Q: Can you help me with query 54?
+A: Of course, I'm here to help with query 54!
+END;
+
+Q: What can you tell me about topic 55?
+A: I can tell you some interesting facts about topic 55.
+END;
+
+Q: How do you feel about subject 55?
+A: I think subject 55 is quite fascinating!
+END;
+
+Q: Can you help me with query 55?
+A: Of course, I'm here to help with query 55!
+END;
+
+Q: What can you tell me about topic 56?
+A: I can tell you some interesting facts about topic 56.
+END;
+
+Q: How do you feel about subject 56?
+A: I think subject 56 is quite fascinating!
+END;
+
+Q: Can you help me with query 56?
+A: Of course, I'm here to help with query 56!
+END;
+
+Q: What can you tell me about topic 57?
+A: I can tell you some interesting facts about topic 57.
+END;
+
+Q: How do you feel about subject 57?
+A: I think subject 57 is quite fascinating!
+END;
+
+Q: Can you help me with query 57?
+A: Of course, I'm here to help with query 57!
+END;
+
+Q: What can you tell me about topic 58?
+A: I can tell you some interesting facts about topic 58.
+END;
+
+Q: How do you feel about subject 58?
+A: I think subject 58 is quite fascinating!
+END;
+
+Q: Can you help me with query 58?
+A: Of course, I'm here to help with query 58!
+END;
+
+Q: What can you tell me about topic 59?
+A: I can tell you some interesting facts about topic 59.
+END;
+
+Q: How do you feel about subject 59?
+A: I think subject 59 is quite fascinating!
+END;
+
+Q: Can you help me with query 59?
+A: Of course, I'm here to help with query 59!
+END;
+
+Q: What can you tell me about topic 60?
+A: I can tell you some interesting facts about topic 60.
+END;
+
+Q: How do you feel about subject 60?
+A: I think subject 60 is quite fascinating!
+END;
+
+Q: Can you help me with query 60?
+A: Of course, I'm here to help with query 60!
+END;
+
+Q: What can you tell me about topic 61?
+A: I can tell you some interesting facts about topic 61.
+END;
+
+Q: How do you feel about subject 61?
+A: I think subject 61 is quite fascinating!
+END;
+
+Q: Can you help me with query 61?
+A: Of course, I'm here to help with query 61!
+END;
+
+Q: What can you tell me about topic 62?
+A: I can tell you some interesting facts about topic 62.
+END;
+
+Q: How do you feel about subject 62?
+A: I think subject 62 is quite fascinating!
+END;
+
+Q: Can you help me with query 62?
+A: Of course, I'm here to help with query 62!
+END;
+
+Q: What can you tell me about topic 63?
+A: I can tell you some interesting facts about topic 63.
+END;
+
+Q: How do you feel about subject 63?
+A: I think subject 63 is quite fascinating!
+END;
+
+Q: Can you help me with query 63?
+A: Of course, I'm here to help with query 63!
+END;
+
+Q: What can you tell me about topic 64?
+A: I can tell you some interesting facts about topic 64.
+END;
+
+Q: How do you feel about subject 64?
+A: I think subject 64 is quite fascinating!
+END;
+
+Q: Can you help me with query 64?
+A: Of course, I'm here to help with query 64!
+END;
+
+Q: What can you tell me about topic 65?
+A: I can tell you some interesting facts about topic 65.
+END;
+
+Q: How do you feel about subject 65?
+A: I think subject 65 is quite fascinating!
+END;
+
+Q: Can you help me with query 65?
+A: Of course, I'm here to help with query 65!
+END;
+
+Q: What can you tell me about topic 66?
+A: I can tell you some interesting facts about topic 66.
+END;
+
+Q: How do you feel about subject 66?
+A: I think subject 66 is quite fascinating!
+END;
+
+Q: Can you help me with query 66?
+A: Of course, I'm here to help with query 66!
+END;
+
+Q: What can you tell me about topic 67?
+A: I can tell you some interesting facts about topic 67.
+END;
+
+Q: How do you feel about subject 67?
+A: I think subject 67 is quite fascinating!
+END;
+
+Q: Can you help me with query 67?
+A: Of course, I'm here to help with query 67!
+END;
+
+Q: What can you tell me about topic 68?
+A: I can tell you some interesting facts about topic 68.
+END;
+
+Q: How do you feel about subject 68?
+A: I think subject 68 is quite fascinating!
+END;
+
+Q: Can you help me with query 68?
+A: Of course, I'm here to help with query 68!
+END;
+
+Q: What can you tell me about topic 69?
+A: I can tell you some interesting facts about topic 69.
+END;
+
+Q: How do you feel about subject 69?
+A: I think subject 69 is quite fascinating!
+END;
+
+Q: Can you help me with query 69?
+A: Of course, I'm here to help with query 69!
+END;
+
+Q: What can you tell me about topic 70?
+A: I can tell you some interesting facts about topic 70.
+END;
+
+Q: How do you feel about subject 70?
+A: I think subject 70 is quite fascinating!
+END;
+
+Q: Can you help me with query 70?
+A: Of course, I'm here to help with query 70!
+END;
+
+Q: What can you tell me about topic 71?
+A: I can tell you some interesting facts about topic 71.
+END;
+
+Q: How do you feel about subject 71?
+A: I think subject 71 is quite fascinating!
+END;
+
+Q: Can you help me with query 71?
+A: Of course, I'm here to help with query 71!
+END;
+
+Q: What can you tell me about topic 72?
+A: I can tell you some interesting facts about topic 72.
+END;
+
+Q: How do you feel about subject 72?
+A: I think subject 72 is quite fascinating!
+END;
+
+Q: Can you help me with query 72?
+A: Of course, I'm here to help with query 72!
+END;
+
+Q: What can you tell me about topic 73?
+A: I can tell you some interesting facts about topic 73.
+END;
+
+Q: How do you feel about subject 73?
+A: I think subject 73 is quite fascinating!
+END;
+
+Q: Can you help me with query 73?
+A: Of course, I'm here to help with query 73!
+END;
+
+Q: What can you tell me about topic 74?
+A: I can tell you some interesting facts about topic 74.
+END;
+
+Q: How do you feel about subject 74?
+A: I think subject 74 is quite fascinating!
+END;
+
+Q: Can you help me with query 74?
+A: Of course, I'm here to help with query 74!
+END;
+
+Q: What can you tell me about topic 75?
+A: I can tell you some interesting facts about topic 75.
+END;
+
+Q: How do you feel about subject 75?
+A: I think subject 75 is quite fascinating!
+END;
+
+Q: Can you help me with query 75?
+A: Of course, I'm here to help with query 75!
+END;
+
+Q: What can you tell me about topic 76?
+A: I can tell you some interesting facts about topic 76.
+END;
+
+Q: How do you feel about subject 76?
+A: I think subject 76 is quite fascinating!
+END;
+
+Q: Can you help me with query 76?
+A: Of course, I'm here to help with query 76!
+END;
+
+Q: What can you tell me about topic 77?
+A: I can tell you some interesting facts about topic 77.
+END;
+
+Q: How do you feel about subject 77?
+A: I think subject 77 is quite fascinating!
+END;
+
+Q: Can you help me with query 77?
+A: Of course, I'm here to help with query 77!
+END;
+
+Q: What can you tell me about topic 78?
+A: I can tell you some interesting facts about topic 78.
+END;
+
+Q: How do you feel about subject 78?
+A: I think subject 78 is quite fascinating!
+END;
+
+Q: Can you help me with query 78?
+A: Of course, I'm here to help with query 78!
+END;
+
+Q: What can you tell me about topic 79?
+A: I can tell you some interesting facts about topic 79.
+END;
+
+Q: How do you feel about subject 79?
+A: I think subject 79 is quite fascinating!
+END;
+
+Q: Can you help me with query 79?
+A: Of course, I'm here to help with query 79!
+END;
+
+Q: What can you tell me about topic 80?
+A: I can tell you some interesting facts about topic 80.
+END;
+
+Q: How do you feel about subject 80?
+A: I think subject 80 is quite fascinating!
+END;
+
+Q: Can you help me with query 80?
+A: Of course, I'm here to help with query 80!
+END;
+
+Q: What can you tell me about topic 81?
+A: I can tell you some interesting facts about topic 81.
+END;
+
+Q: How do you feel about subject 81?
+A: I think subject 81 is quite fascinating!
+END;
+
+Q: Can you help me with query 81?
+A: Of course, I'm here to help with query 81!
+END;
+
+Q: What can you tell me about topic 82?
+A: I can tell you some interesting facts about topic 82.
+END;
+
+Q: How do you feel about subject 82?
+A: I think subject 82 is quite fascinating!
+END;
+
+Q: Can you help me with query 82?
+A: Of course, I'm here to help with query 82!
+END;
+
+Q: What can you tell me about topic 83?
+A: I can tell you some interesting facts about topic 83.
+END;
+
+Q: How do you feel about subject 83?
+A: I think subject 83 is quite fascinating!
+END;
+
+Q: Can you help me with query 83?
+A: Of course, I'm here to help with query 83!
+END;
+
+Q: What can you tell me about topic 84?
+A: I can tell you some interesting facts about topic 84.
+END;
+
+Q: How do you feel about subject 84?
+A: I think subject 84 is quite fascinating!
+END;
+
+Q: Can you help me with query 84?
+A: Of course, I'm here to help with query 84!
+END;
+
+Q: What can you tell me about topic 85?
+A: I can tell you some interesting facts about topic 85.
+END;
+
+Q: How do you feel about subject 85?
+A: I think subject 85 is quite fascinating!
+END;
+
+Q: Can you help me with query 85?
+A: Of course, I'm here to help with query 85!
+END;
+
+Q: What can you tell me about topic 86?
+A: I can tell you some interesting facts about topic 86.
+END;
+
+Q: How do you feel about subject 86?
+A: I think subject 86 is quite fascinating!
+END;
+
+Q: Can you help me with query 86?
+A: Of course, I'm here to help with query 86!
+END;
+
+Q: What can you tell me about topic 87?
+A: I can tell you some interesting facts about topic 87.
+END;
+
+Q: How do you feel about subject 87?
+A: I think subject 87 is quite fascinating!
+END;
+
+Q: Can you help me with query 87?
+A: Of course, I'm here to help with query 87!
+END;
+
+Q: What can you tell me about topic 88?
+A: I can tell you some interesting facts about topic 88.
+END;
+
+Q: How do you feel about subject 88?
+A: I think subject 88 is quite fascinating!
+END;
+
+Q: Can you help me with query 88?
+A: Of course, I'm here to help with query 88!
+END;
+
+Q: What can you tell me about topic 89?
+A: I can tell you some interesting facts about topic 89.
+END;
+
+Q: How do you feel about subject 89?
+A: I think subject 89 is quite fascinating!
+END;
+
+Q: Can you help me with query 89?
+A: Of course, I'm here to help with query 89!
+END;
+
+Q: What can you tell me about topic 90?
+A: I can tell you some interesting facts about topic 90.
+END;
+
+Q: How do you feel about subject 90?
+A: I think subject 90 is quite fascinating!
+END;
+
+Q: Can you help me with query 90?
+A: Of course, I'm here to help with query 90!
+END;
+
+Q: What can you tell me about topic 91?
+A: I can tell you some interesting facts about topic 91.
+END;
+
+Q: How do you feel about subject 91?
+A: I think subject 91 is quite fascinating!
+END;
+
+Q: Can you help me with query 91?
+A: Of course, I'm here to help with query 91!
+END;
+
+Q: What can you tell me about topic 92?
+A: I can tell you some interesting facts about topic 92.
+END;
+
+Q: How do you feel about subject 92?
+A: I think subject 92 is quite fascinating!
+END;
+
+Q: Can you help me with query 92?
+A: Of course, I'm here to help with query 92!
+END;
+
+Q: What can you tell me about topic 93?
+A: I can tell you some interesting facts about topic 93.
+END;
+
+Q: How do you feel about subject 93?
+A: I think subject 93 is quite fascinating!
+END;
+
+Q: Can you help me with query 93?
+A: Of course, I'm here to help with query 93!
+END;
+
+Q: What can you tell me about topic 94?
+A: I can tell you some interesting facts about topic 94.
+END;
+
+Q: How do you feel about subject 94?
+A: I think subject 94 is quite fascinating!
+END;
+
+Q: Can you help me with query 94?
+A: Of course, I'm here to help with query 94!
+END;
+
+Q: What can you tell me about topic 95?
+A: I can tell you some interesting facts about topic 95.
+END;
+
+Q: How do you feel about subject 95?
+A: I think subject 95 is quite fascinating!
+END;
+
+Q: Can you help me with query 95?
+A: Of course, I'm here to help with query 95!
+END;
+
+Q: What can you tell me about topic 96?
+A: I can tell you some interesting facts about topic 96.
+END;
+
+Q: How do you feel about subject 96?
+A: I think subject 96 is quite fascinating!
+END;
+
+Q: Can you help me with query 96?
+A: Of course, I'm here to help with query 96!
+END;
+
+Q: What can you tell me about topic 97?
+A: I can tell you some interesting facts about topic 97.
+END;
+
+Q: How do you feel about subject 97?
+A: I think subject 97 is quite fascinating!
+END;
+
+Q: Can you help me with query 97?
+A: Of course, I'm here to help with query 97!
+END;
+
+Q: What can you tell me about topic 98?
+A: I can tell you some interesting facts about topic 98.
+END;
+
+Q: How do you feel about subject 98?
+A: I think subject 98 is quite fascinating!
+END;
+
+Q: Can you help me with query 98?
+A: Of course, I'm here to help with query 98!
+END;
+
+Q: What can you tell me about topic 99?
+A: I can tell you some interesting facts about topic 99.
+END;
+
+Q: How do you feel about subject 99?
+A: I think subject 99 is quite fascinating!
+END;
+
+Q: Can you help me with query 99?
+A: Of course, I'm here to help with query 99!
+END;
+
+Q: What can you tell me about topic 100?
+A: I can tell you some interesting facts about topic 100.
+END;
+
+Q: How do you feel about subject 100?
+A: I think subject 100 is quite fascinating!
+END;
+
+Q: Can you help me with query 100?
+A: Of course, I'm here to help with query 100!
+END;
+
+Q: What can you tell me about topic 101?
+A: I can tell you some interesting facts about topic 101.
+END;
+
+Q: How do you feel about subject 101?
+A: I think subject 101 is quite fascinating!
+END;
+
+Q: Can you help me with query 101?
+A: Of course, I'm here to help with query 101!
+END;
+
+Q: What can you tell me about topic 102?
+A: I can tell you some interesting facts about topic 102.
+END;
+
+Q: How do you feel about subject 102?
+A: I think subject 102 is quite fascinating!
+END;
+
+Q: Can you help me with query 102?
+A: Of course, I'm here to help with query 102!
+END;
+
+Q: What can you tell me about topic 103?
+A: I can tell you some interesting facts about topic 103.
+END;
+
+Q: How do you feel about subject 103?
+A: I think subject 103 is quite fascinating!
+END;
+
+Q: Can you help me with query 103?
+A: Of course, I'm here to help with query 103!
+END;
+
+Q: What can you tell me about topic 104?
+A: I can tell you some interesting facts about topic 104.
+END;
+
+Q: How do you feel about subject 104?
+A: I think subject 104 is quite fascinating!
+END;
+
+Q: Can you help me with query 104?
+A: Of course, I'm here to help with query 104!
+END;
+
+Q: What can you tell me about topic 105?
+A: I can tell you some interesting facts about topic 105.
+END;
+
+Q: How do you feel about subject 105?
+A: I think subject 105 is quite fascinating!
+END;
+
+Q: Can you help me with query 105?
+A: Of course, I'm here to help with query 105!
+END;
+
+Q: What can you tell me about topic 106?
+A: I can tell you some interesting facts about topic 106.
+END;
+
+Q: How do you feel about subject 106?
+A: I think subject 106 is quite fascinating!
+END;
+
+Q: Can you help me with query 106?
+A: Of course, I'm here to help with query 106!
+END;
+
+Q: What can you tell me about topic 107?
+A: I can tell you some interesting facts about topic 107.
+END;
+
+Q: How do you feel about subject 107?
+A: I think subject 107 is quite fascinating!
+END;
+
+Q: Can you help me with query 107?
+A: Of course, I'm here to help with query 107!
+END;
+
+Q: What can you tell me about topic 108?
+A: I can tell you some interesting facts about topic 108.
+END;
+
+Q: How do you feel about subject 108?
+A: I think subject 108 is quite fascinating!
+END;
+
+Q: Can you help me with query 108?
+A: Of course, I'm here to help with query 108!
+END;
+
+Q: What can you tell me about topic 109?
+A: I can tell you some interesting facts about topic 109.
+END;
+
+Q: How do you feel about subject 109?
+A: I think subject 109 is quite fascinating!
+END;
+
+Q: Can you help me with query 109?
+A: Of course, I'm here to help with query 109!
+END;
+
+Q: What can you tell me about topic 110?
+A: I can tell you some interesting facts about topic 110.
+END;
+
+Q: How do you feel about subject 110?
+A: I think subject 110 is quite fascinating!
+END;
+
+Q: Can you help me with query 110?
+A: Of course, I'm here to help with query 110!
+END;
+
+Q: What can you tell me about topic 111?
+A: I can tell you some interesting facts about topic 111.
+END;
+
+Q: How do you feel about subject 111?
+A: I think subject 111 is quite fascinating!
+END;
+
+Q: Can you help me with query 111?
+A: Of course, I'm here to help with query 111!
+END;
+
+Q: What can you tell me about topic 112?
+A: I can tell you some interesting facts about topic 112.
+END;
+
+Q: How do you feel about subject 112?
+A: I think subject 112 is quite fascinating!
+END;
+
+Q: Can you help me with query 112?
+A: Of course, I'm here to help with query 112!
+END;
+
+Q: What can you tell me about topic 113?
+A: I can tell you some interesting facts about topic 113.
+END;
+
+Q: How do you feel about subject 113?
+A: I think subject 113 is quite fascinating!
+END;
+
+Q: Can you help me with query 113?
+A: Of course, I'm here to help with query 113!
+END;
+
+Q: What can you tell me about topic 114?
+A: I can tell you some interesting facts about topic 114.
+END;
+
+Q: How do you feel about subject 114?
+A: I think subject 114 is quite fascinating!
+END;
+
+Q: Can you help me with query 114?
+A: Of course, I'm here to help with query 114!
+END;
+
+Q: What can you tell me about topic 115?
+A: I can tell you some interesting facts about topic 115.
+END;
+
+Q: How do you feel about subject 115?
+A: I think subject 115 is quite fascinating!
+END;
+
+Q: Can you help me with query 115?
+A: Of course, I'm here to help with query 115!
+END;
+
+Q: What can you tell me about topic 116?
+A: I can tell you some interesting facts about topic 116.
+END;
+
+Q: How do you feel about subject 116?
+A: I think subject 116 is quite fascinating!
+END;
+
+Q: Can you help me with query 116?
+A: Of course, I'm here to help with query 116!
+END;
+
+Q: What can you tell me about topic 117?
+A: I can tell you some interesting facts about topic 117.
+END;
+
+Q: How do you feel about subject 117?
+A: I think subject 117 is quite fascinating!
+END;
+
+Q: Can you help me with query 117?
+A: Of course, I'm here to help with query 117!
+END;
+
+Q: What can you tell me about topic 118?
+A: I can tell you some interesting facts about topic 118.
+END;
+
+Q: How do you feel about subject 118?
+A: I think subject 118 is quite fascinating!
+END;
+
+Q: Can you help me with query 118?
+A: Of course, I'm here to help with query 118!
+END;
+
+Q: What can you tell me about topic 119?
+A: I can tell you some interesting facts about topic 119.
+END;
+
+Q: How do you feel about subject 119?
+A: I think subject 119 is quite fascinating!
+END;
+
+Q: Can you help me with query 119?
+A: Of course, I'm here to help with query 119!
+END;
+
+Q: What can you tell me about topic 120?
+A: I can tell you some interesting facts about topic 120.
+END;
+
+Q: How do you feel about subject 120?
+A: I think subject 120 is quite fascinating!
+END;
+
+Q: Can you help me with query 120?
+A: Of course, I'm here to help with query 120!
+END;
+
+Q: What can you tell me about topic 121?
+A: I can tell you some interesting facts about topic 121.
+END;
+
+Q: How do you feel about subject 121?
+A: I think subject 121 is quite fascinating!
+END;
+
+Q: Can you help me with query 121?
+A: Of course, I'm here to help with query 121!
+END;
+
+Q: What can you tell me about topic 122?
+A: I can tell you some interesting facts about topic 122.
+END;
+
+Q: How do you feel about subject 122?
+A: I think subject 122 is quite fascinating!
+END;
+
+Q: Can you help me with query 122?
+A: Of course, I'm here to help with query 122!
+END;
+
+Q: What can you tell me about topic 123?
+A: I can tell you some interesting facts about topic 123.
+END;
+
+Q: How do you feel about subject 123?
+A: I think subject 123 is quite fascinating!
+END;
+
+Q: Can you help me with query 123?
+A: Of course, I'm here to help with query 123!
+END;
+
+Q: What can you tell me about topic 124?
+A: I can tell you some interesting facts about topic 124.
+END;
+
+Q: How do you feel about subject 124?
+A: I think subject 124 is quite fascinating!
+END;
+
+Q: Can you help me with query 124?
+A: Of course, I'm here to help with query 124!
+END;
+
+Q: What can you tell me about topic 125?
+A: I can tell you some interesting facts about topic 125.
+END;
+
+Q: How do you feel about subject 125?
+A: I think subject 125 is quite fascinating!
+END;
+
+Q: Can you help me with query 125?
+A: Of course, I'm here to help with query 125!
+END;
+
+Q: What can you tell me about topic 126?
+A: I can tell you some interesting facts about topic 126.
+END;
+
+Q: How do you feel about subject 126?
+A: I think subject 126 is quite fascinating!
+END;
+
+Q: Can you help me with query 126?
+A: Of course, I'm here to help with query 126!
+END;
+
+Q: What can you tell me about topic 127?
+A: I can tell you some interesting facts about topic 127.
+END;
+
+Q: How do you feel about subject 127?
+A: I think subject 127 is quite fascinating!
+END;
+
+Q: Can you help me with query 127?
+A: Of course, I'm here to help with query 127!
+END;
+
+Q: What can you tell me about topic 128?
+A: I can tell you some interesting facts about topic 128.
+END;
+
+Q: How do you feel about subject 128?
+A: I think subject 128 is quite fascinating!
+END;
+
+Q: Can you help me with query 128?
+A: Of course, I'm here to help with query 128!
+END;
+
+Q: What can you tell me about topic 129?
+A: I can tell you some interesting facts about topic 129.
+END;
+
+Q: How do you feel about subject 129?
+A: I think subject 129 is quite fascinating!
+END;
+
+Q: Can you help me with query 129?
+A: Of course, I'm here to help with query 129!
+END;
+
+Q: What can you tell me about topic 130?
+A: I can tell you some interesting facts about topic 130.
+END;
+
+Q: How do you feel about subject 130?
+A: I think subject 130 is quite fascinating!
+END;
+
+Q: Can you help me with query 130?
+A: Of course, I'm here to help with query 130!
+END;
+
+Q: What can you tell me about topic 131?
+A: I can tell you some interesting facts about topic 131.
+END;
+
+Q: How do you feel about subject 131?
+A: I think subject 131 is quite fascinating!
+END;
+
+Q: Can you help me with query 131?
+A: Of course, I'm here to help with query 131!
+END;
+
+Q: What can you tell me about topic 132?
+A: I can tell you some interesting facts about topic 132.
+END;
+
+Q: How do you feel about subject 132?
+A: I think subject 132 is quite fascinating!
+END;
+
+Q: Can you help me with query 132?
+A: Of course, I'm here to help with query 132!
+END;
+
+Q: What can you tell me about topic 133?
+A: I can tell you some interesting facts about topic 133.
+END;
+
+Q: How do you feel about subject 133?
+A: I think subject 133 is quite fascinating!
+END;
+
+Q: Can you help me with query 133?
+A: Of course, I'm here to help with query 133!
+END;
+
+Q: What can you tell me about topic 134?
+A: I can tell you some interesting facts about topic 134.
+END;
+
+Q: How do you feel about subject 134?
+A: I think subject 134 is quite fascinating!
+END;
+
+Q: Can you help me with query 134?
+A: Of course, I'm here to help with query 134!
+END;
+
+Q: What can you tell me about topic 135?
+A: I can tell you some interesting facts about topic 135.
+END;
+
+Q: How do you feel about subject 135?
+A: I think subject 135 is quite fascinating!
+END;
+
+Q: Can you help me with query 135?
+A: Of course, I'm here to help with query 135!
+END;
+
+Q: What can you tell me about topic 136?
+A: I can tell you some interesting facts about topic 136.
+END;
+
+Q: How do you feel about subject 136?
+A: I think subject 136 is quite fascinating!
+END;
+
+Q: Can you help me with query 136?
+A: Of course, I'm here to help with query 136!
+END;
+
+Q: What can you tell me about topic 137?
+A: I can tell you some interesting facts about topic 137.
+END;
+
+Q: How do you feel about subject 137?
+A: I think subject 137 is quite fascinating!
+END;
+
+Q: Can you help me with query 137?
+A: Of course, I'm here to help with query 137!
+END;
+
+Q: What can you tell me about topic 138?
+A: I can tell you some interesting facts about topic 138.
+END;
+
+Q: How do you feel about subject 138?
+A: I think subject 138 is quite fascinating!
+END;
+
+Q: Can you help me with query 138?
+A: Of course, I'm here to help with query 138!
+END;
+
+Q: What can you tell me about topic 139?
+A: I can tell you some interesting facts about topic 139.
+END;
+
+Q: How do you feel about subject 139?
+A: I think subject 139 is quite fascinating!
+END;
+
+Q: Can you help me with query 139?
+A: Of course, I'm here to help with query 139!
+END;
+
+Q: What can you tell me about topic 140?
+A: I can tell you some interesting facts about topic 140.
+END;
+
+Q: How do you feel about subject 140?
+A: I think subject 140 is quite fascinating!
+END;
+
+Q: Can you help me with query 140?
+A: Of course, I'm here to help with query 140!
+END;
+
+Q: What can you tell me about topic 141?
+A: I can tell you some interesting facts about topic 141.
+END;
+
+Q: How do you feel about subject 141?
+A: I think subject 141 is quite fascinating!
+END;
+
+Q: Can you help me with query 141?
+A: Of course, I'm here to help with query 141!
+END;
+
+Q: What can you tell me about topic 142?
+A: I can tell you some interesting facts about topic 142.
+END;
+
+Q: How do you feel about subject 142?
+A: I think subject 142 is quite fascinating!
+END;
+
+Q: Can you help me with query 142?
+A: Of course, I'm here to help with query 142!
+END;
+
+Q: What can you tell me about topic 143?
+A: I can tell you some interesting facts about topic 143.
+END;
+
+Q: How do you feel about subject 143?
+A: I think subject 143 is quite fascinating!
+END;
+
+Q: Can you help me with query 143?
+A: Of course, I'm here to help with query 143!
+END;
+
+Q: What can you tell me about topic 144?
+A: I can tell you some interesting facts about topic 144.
+END;
+
+Q: How do you feel about subject 144?
+A: I think subject 144 is quite fascinating!
+END;
+
+Q: Can you help me with query 144?
+A: Of course, I'm here to help with query 144!
+END;
+
+Q: What can you tell me about topic 145?
+A: I can tell you some interesting facts about topic 145.
+END;
+
+Q: How do you feel about subject 145?
+A: I think subject 145 is quite fascinating!
+END;
+
+Q: Can you help me with query 145?
+A: Of course, I'm here to help with query 145!
+END;
+
+Q: What can you tell me about topic 146?
+A: I can tell you some interesting facts about topic 146.
+END;
+
+Q: How do you feel about subject 146?
+A: I think subject 146 is quite fascinating!
+END;
+
+Q: Can you help me with query 146?
+A: Of course, I'm here to help with query 146!
+END;
+
+Q: What can you tell me about topic 147?
+A: I can tell you some interesting facts about topic 147.
+END;
+
+Q: How do you feel about subject 147?
+A: I think subject 147 is quite fascinating!
+END;
+
+Q: Can you help me with query 147?
+A: Of course, I'm here to help with query 147!
+END;
+
+Q: What can you tell me about topic 148?
+A: I can tell you some interesting facts about topic 148.
+END;
+
+Q: How do you feel about subject 148?
+A: I think subject 148 is quite fascinating!
+END;
+
+Q: Can you help me with query 148?
+A: Of course, I'm here to help with query 148!
+END;
+
+Q: What can you tell me about topic 149?
+A: I can tell you some interesting facts about topic 149.
+END;
+
+Q: How do you feel about subject 149?
+A: I think subject 149 is quite fascinating!
+END;
+
+Q: Can you help me with query 149?
+A: Of course, I'm here to help with query 149!
+END;
+
+Q: What can you tell me about topic 150?
+A: I can tell you some interesting facts about topic 150.
+END;
+
+Q: How do you feel about subject 150?
+A: I think subject 150 is quite fascinating!
+END;
+
+Q: Can you help me with query 150?
+A: Of course, I'm here to help with query 150!
+END;
+
+Q: What can you tell me about topic 151?
+A: I can tell you some interesting facts about topic 151.
+END;
+
+Q: How do you feel about subject 151?
+A: I think subject 151 is quite fascinating!
+END;
+
+Q: Can you help me with query 151?
+A: Of course, I'm here to help with query 151!
+END;
+
+Q: What can you tell me about topic 152?
+A: I can tell you some interesting facts about topic 152.
+END;
+
+Q: How do you feel about subject 152?
+A: I think subject 152 is quite fascinating!
+END;
+
+Q: Can you help me with query 152?
+A: Of course, I'm here to help with query 152!
+END;
+
+Q: What can you tell me about topic 153?
+A: I can tell you some interesting facts about topic 153.
+END;
+
+Q: How do you feel about subject 153?
+A: I think subject 153 is quite fascinating!
+END;
+
+Q: Can you help me with query 153?
+A: Of course, I'm here to help with query 153!
+END;
+
+Q: What can you tell me about topic 154?
+A: I can tell you some interesting facts about topic 154.
+END;
+
+Q: How do you feel about subject 154?
+A: I think subject 154 is quite fascinating!
+END;
+
+Q: Can you help me with query 154?
+A: Of course, I'm here to help with query 154!
+END;
+
+Q: What can you tell me about topic 155?
+A: I can tell you some interesting facts about topic 155.
+END;
+
+Q: How do you feel about subject 155?
+A: I think subject 155 is quite fascinating!
+END;
+
+Q: Can you help me with query 155?
+A: Of course, I'm here to help with query 155!
+END;
+
+Q: What can you tell me about topic 156?
+A: I can tell you some interesting facts about topic 156.
+END;
+
+Q: How do you feel about subject 156?
+A: I think subject 156 is quite fascinating!
+END;
+
+Q: Can you help me with query 156?
+A: Of course, I'm here to help with query 156!
+END;
+
+Q: What can you tell me about topic 157?
+A: I can tell you some interesting facts about topic 157.
+END;
+
+Q: How do you feel about subject 157?
+A: I think subject 157 is quite fascinating!
+END;
+
+Q: Can you help me with query 157?
+A: Of course, I'm here to help with query 157!
+END;
+
+Q: What can you tell me about topic 158?
+A: I can tell you some interesting facts about topic 158.
+END;
+
+Q: How do you feel about subject 158?
+A: I think subject 158 is quite fascinating!
+END;
+
+Q: Can you help me with query 158?
+A: Of course, I'm here to help with query 158!
+END;
+
+Q: What can you tell me about topic 159?
+A: I can tell you some interesting facts about topic 159.
+END;
+
+Q: How do you feel about subject 159?
+A: I think subject 159 is quite fascinating!
+END;
+
+Q: Can you help me with query 159?
+A: Of course, I'm here to help with query 159!
+END;
+
+Q: What can you tell me about topic 160?
+A: I can tell you some interesting facts about topic 160.
+END;
+
+Q: How do you feel about subject 160?
+A: I think subject 160 is quite fascinating!
+END;
+
+Q: Can you help me with query 160?
+A: Of course, I'm here to help with query 160!
+END;
+
+Q: What can you tell me about topic 161?
+A: I can tell you some interesting facts about topic 161.
+END;
+
+Q: How do you feel about subject 161?
+A: I think subject 161 is quite fascinating!
+END;
+
+Q: Can you help me with query 161?
+A: Of course, I'm here to help with query 161!
+END;
+
+Q: What can you tell me about topic 162?
+A: I can tell you some interesting facts about topic 162.
+END;
+
+Q: How do you feel about subject 162?
+A: I think subject 162 is quite fascinating!
+END;
+
+Q: Can you help me with query 162?
+A: Of course, I'm here to help with query 162!
+END;
+
+Q: What can you tell me about topic 163?
+A: I can tell you some interesting facts about topic 163.
+END;
+
+Q: How do you feel about subject 163?
+A: I think subject 163 is quite fascinating!
+END;
+
+Q: Can you help me with query 163?
+A: Of course, I'm here to help with query 163!
+END;
+
+Q: What can you tell me about topic 164?
+A: I can tell you some interesting facts about topic 164.
+END;
+
+Q: How do you feel about subject 164?
+A: I think subject 164 is quite fascinating!
+END;
+
+Q: Can you help me with query 164?
+A: Of course, I'm here to help with query 164!
+END;
+
+Q: What can you tell me about topic 165?
+A: I can tell you some interesting facts about topic 165.
+END;
+
+Q: How do you feel about subject 165?
+A: I think subject 165 is quite fascinating!
+END;
+
+Q: Can you help me with query 165?
+A: Of course, I'm here to help with query 165!
+END;
+
+Q: What can you tell me about topic 166?
+A: I can tell you some interesting facts about topic 166.
+END;
+
+Q: How do you feel about subject 166?
+A: I think subject 166 is quite fascinating!
+END;
+
+Q: Can you help me with query 166?
+A: Of course, I'm here to help with query 166!
+END;
+
+Q: What can you tell me about topic 167?
+A: I can tell you some interesting facts about topic 167.
+END;
+
+Q: How do you feel about subject 167?
+A: I think subject 167 is quite fascinating!
+END;
+
+Q: Can you help me with query 167?
+A: Of course, I'm here to help with query 167!
+END;
+
+Q: What can you tell me about topic 168?
+A: I can tell you some interesting facts about topic 168.
+END;
+
+Q: How do you feel about subject 168?
+A: I think subject 168 is quite fascinating!
+END;
+
+Q: Can you help me with query 168?
+A: Of course, I'm here to help with query 168!
+END;
+
+Q: What can you tell me about topic 169?
+A: I can tell you some interesting facts about topic 169.
+END;
+
+Q: How do you feel about subject 169?
+A: I think subject 169 is quite fascinating!
+END;
+
+Q: Can you help me with query 169?
+A: Of course, I'm here to help with query 169!
+END;
+
+Q: What can you tell me about topic 170?
+A: I can tell you some interesting facts about topic 170.
+END;
+
+Q: How do you feel about subject 170?
+A: I think subject 170 is quite fascinating!
+END;
+
+Q: Can you help me with query 170?
+A: Of course, I'm here to help with query 170!
+END;
+
+Q: What can you tell me about topic 171?
+A: I can tell you some interesting facts about topic 171.
+END;
+
+Q: How do you feel about subject 171?
+A: I think subject 171 is quite fascinating!
+END;
+
+Q: Can you help me with query 171?
+A: Of course, I'm here to help with query 171!
+END;
+
+Q: What can you tell me about topic 172?
+A: I can tell you some interesting facts about topic 172.
+END;
+
+Q: How do you feel about subject 172?
+A: I think subject 172 is quite fascinating!
+END;
+
+Q: Can you help me with query 172?
+A: Of course, I'm here to help with query 172!
+END;
+
+Q: What can you tell me about topic 173?
+A: I can tell you some interesting facts about topic 173.
+END;
+
+Q: How do you feel about subject 173?
+A: I think subject 173 is quite fascinating!
+END;
+
+Q: Can you help me with query 173?
+A: Of course, I'm here to help with query 173!
+END;
+
+Q: What can you tell me about topic 174?
+A: I can tell you some interesting facts about topic 174.
+END;
+
+Q: How do you feel about subject 174?
+A: I think subject 174 is quite fascinating!
+END;
+
+Q: Can you help me with query 174?
+A: Of course, I'm here to help with query 174!
+END;
+
+Q: What can you tell me about topic 175?
+A: I can tell you some interesting facts about topic 175.
+END;
+
+Q: How do you feel about subject 175?
+A: I think subject 175 is quite fascinating!
+END;
+
+Q: Can you help me with query 175?
+A: Of course, I'm here to help with query 175!
+END;
+
+Q: What can you tell me about topic 176?
+A: I can tell you some interesting facts about topic 176.
+END;
+
+Q: How do you feel about subject 176?
+A: I think subject 176 is quite fascinating!
+END;
+
+Q: Can you help me with query 176?
+A: Of course, I'm here to help with query 176!
+END;
+
+Q: What can you tell me about topic 177?
+A: I can tell you some interesting facts about topic 177.
+END;
+
+Q: How do you feel about subject 177?
+A: I think subject 177 is quite fascinating!
+END;
+
+Q: Can you help me with query 177?
+A: Of course, I'm here to help with query 177!
+END;
+
+Q: What can you tell me about topic 178?
+A: I can tell you some interesting facts about topic 178.
+END;
+
+Q: How do you feel about subject 178?
+A: I think subject 178 is quite fascinating!
+END;
+
+Q: Can you help me with query 178?
+A: Of course, I'm here to help with query 178!
+END;
+
+Q: What can you tell me about topic 179?
+A: I can tell you some interesting facts about topic 179.
+END;
+
+Q: How do you feel about subject 179?
+A: I think subject 179 is quite fascinating!
+END;
+
+Q: Can you help me with query 179?
+A: Of course, I'm here to help with query 179!
+END;
+
+Q: What can you tell me about topic 180?
+A: I can tell you some interesting facts about topic 180.
+END;
+
+Q: How do you feel about subject 180?
+A: I think subject 180 is quite fascinating!
+END;
+
+Q: Can you help me with query 180?
+A: Of course, I'm here to help with query 180!
+END;
+
+Q: What can you tell me about topic 181?
+A: I can tell you some interesting facts about topic 181.
+END;
+
+Q: How do you feel about subject 181?
+A: I think subject 181 is quite fascinating!
+END;
+
+Q: Can you help me with query 181?
+A: Of course, I'm here to help with query 181!
+END;
+
+Q: What can you tell me about topic 182?
+A: I can tell you some interesting facts about topic 182.
+END;
+
+Q: How do you feel about subject 182?
+A: I think subject 182 is quite fascinating!
+END;
+
+Q: Can you help me with query 182?
+A: Of course, I'm here to help with query 182!
+END;
+
+Q: What can you tell me about topic 183?
+A: I can tell you some interesting facts about topic 183.
+END;
+
+Q: How do you feel about subject 183?
+A: I think subject 183 is quite fascinating!
+END;
+
+Q: Can you help me with query 183?
+A: Of course, I'm here to help with query 183!
+END;
+
+Q: What can you tell me about topic 184?
+A: I can tell you some interesting facts about topic 184.
+END;
+
+Q: How do you feel about subject 184?
+A: I think subject 184 is quite fascinating!
+END;
+
+Q: Can you help me with query 184?
+A: Of course, I'm here to help with query 184!
+END;
+
+Q: What can you tell me about topic 185?
+A: I can tell you some interesting facts about topic 185.
+END;
+
+Q: How do you feel about subject 185?
+A: I think subject 185 is quite fascinating!
+END;
+
+Q: Can you help me with query 185?
+A: Of course, I'm here to help with query 185!
+END;
+
+Q: What can you tell me about topic 186?
+A: I can tell you some interesting facts about topic 186.
+END;
+
+Q: How do you feel about subject 186?
+A: I think subject 186 is quite fascinating!
+END;
+
+Q: Can you help me with query 186?
+A: Of course, I'm here to help with query 186!
+END;
+
+Q: What can you tell me about topic 187?
+A: I can tell you some interesting facts about topic 187.
+END;
+
+Q: How do you feel about subject 187?
+A: I think subject 187 is quite fascinating!
+END;
+
+Q: Can you help me with query 187?
+A: Of course, I'm here to help with query 187!
+END;
+
+Q: What can you tell me about topic 188?
+A: I can tell you some interesting facts about topic 188.
+END;
+
+Q: How do you feel about subject 188?
+A: I think subject 188 is quite fascinating!
+END;
+
+Q: Can you help me with query 188?
+A: Of course, I'm here to help with query 188!
+END;
+
+Q: What can you tell me about topic 189?
+A: I can tell you some interesting facts about topic 189.
+END;
+
+Q: How do you feel about subject 189?
+A: I think subject 189 is quite fascinating!
+END;
+
+Q: Can you help me with query 189?
+A: Of course, I'm here to help with query 189!
+END;
+
+Q: What can you tell me about topic 190?
+A: I can tell you some interesting facts about topic 190.
+END;
+
+Q: How do you feel about subject 190?
+A: I think subject 190 is quite fascinating!
+END;
+
+Q: Can you help me with query 190?
+A: Of course, I'm here to help with query 190!
+END;
+
+Q: What can you tell me about topic 191?
+A: I can tell you some interesting facts about topic 191.
+END;
+
+Q: How do you feel about subject 191?
+A: I think subject 191 is quite fascinating!
+END;
+
+Q: Can you help me with query 191?
+A: Of course, I'm here to help with query 191!
+END;
+
+Q: What can you tell me about topic 192?
+A: I can tell you some interesting facts about topic 192.
+END;
+
+Q: How do you feel about subject 192?
+A: I think subject 192 is quite fascinating!
+END;
+
+Q: Can you help me with query 192?
+A: Of course, I'm here to help with query 192!
+END;
+
+Q: What can you tell me about topic 193?
+A: I can tell you some interesting facts about topic 193.
+END;
+
+Q: How do you feel about subject 193?
+A: I think subject 193 is quite fascinating!
+END;
+
+Q: Can you help me with query 193?
+A: Of course, I'm here to help with query 193!
+END;
+
+Q: What can you tell me about topic 194?
+A: I can tell you some interesting facts about topic 194.
+END;
+
+Q: How do you feel about subject 194?
+A: I think subject 194 is quite fascinating!
+END;
+
+Q: Can you help me with query 194?
+A: Of course, I'm here to help with query 194!
+END;
+
+Q: What can you tell me about topic 195?
+A: I can tell you some interesting facts about topic 195.
+END;
+
+Q: How do you feel about subject 195?
+A: I think subject 195 is quite fascinating!
+END;
+
+Q: Can you help me with query 195?
+A: Of course, I'm here to help with query 195!
+END;
+
+Q: What can you tell me about topic 196?
+A: I can tell you some interesting facts about topic 196.
+END;
+
+Q: How do you feel about subject 196?
+A: I think subject 196 is quite fascinating!
+END;
+
+Q: Can you help me with query 196?
+A: Of course, I'm here to help with query 196!
+END;
+
+Q: What can you tell me about topic 197?
+A: I can tell you some interesting facts about topic 197.
+END;
+
+Q: How do you feel about subject 197?
+A: I think subject 197 is quite fascinating!
+END;
+
+Q: Can you help me with query 197?
+A: Of course, I'm here to help with query 197!
+END;
+
+Q: What can you tell me about topic 198?
+A: I can tell you some interesting facts about topic 198.
+END;
+
+Q: How do you feel about subject 198?
+A: I think subject 198 is quite fascinating!
+END;
+
+Q: Can you help me with query 198?
+A: Of course, I'm here to help with query 198!
+END;
+
+Q: What can you tell me about topic 199?
+A: I can tell you some interesting facts about topic 199.
+END;
+
+Q: How do you feel about subject 199?
+A: I think subject 199 is quite fascinating!
+END;
+
+Q: Can you help me with query 199?
+A: Of course, I'm here to help with query 199!
+END;
+
+Q: What can you tell me about topic 200?
+A: I can tell you some interesting facts about topic 200.
+END;
+
+Q: How do you feel about subject 200?
+A: I think subject 200 is quite fascinating!
+END;
+
+Q: Can you help me with query 200?
+A: Of course, I'm here to help with query 200!
+END;
+
+Q: What can you tell me about topic 201?
+A: I can tell you some interesting facts about topic 201.
+END;
+
+Q: How do you feel about subject 201?
+A: I think subject 201 is quite fascinating!
+END;
+
+Q: Can you help me with query 201?
+A: Of course, I'm here to help with query 201!
+END;
+
+Q: What can you tell me about topic 202?
+A: I can tell you some interesting facts about topic 202.
+END;
+
+Q: How do you feel about subject 202?
+A: I think subject 202 is quite fascinating!
+END;
+
+Q: Can you help me with query 202?
+A: Of course, I'm here to help with query 202!
+END;
+
+Q: What can you tell me about topic 203?
+A: I can tell you some interesting facts about topic 203.
+END;
+
+Q: How do you feel about subject 203?
+A: I think subject 203 is quite fascinating!
+END;
+
+Q: Can you help me with query 203?
+A: Of course, I'm here to help with query 203!
+END;
+
+Q: What can you tell me about topic 204?
+A: I can tell you some interesting facts about topic 204.
+END;
+
+Q: How do you feel about subject 204?
+A: I think subject 204 is quite fascinating!
+END;
+
+Q: Can you help me with query 204?
+A: Of course, I'm here to help with query 204!
+END;
+
+Q: What can you tell me about topic 205?
+A: I can tell you some interesting facts about topic 205.
+END;
+
+Q: How do you feel about subject 205?
+A: I think subject 205 is quite fascinating!
+END;
+
+Q: Can you help me with query 205?
+A: Of course, I'm here to help with query 205!
+END;
+
+Q: What can you tell me about topic 206?
+A: I can tell you some interesting facts about topic 206.
+END;
+
+Q: How do you feel about subject 206?
+A: I think subject 206 is quite fascinating!
+END;
+
+Q: Can you help me with query 206?
+A: Of course, I'm here to help with query 206!
+END;
+
+Q: What can you tell me about topic 207?
+A: I can tell you some interesting facts about topic 207.
+END;
+
+Q: How do you feel about subject 207?
+A: I think subject 207 is quite fascinating!
+END;
+
+Q: Can you help me with query 207?
+A: Of course, I'm here to help with query 207!
+END;
+
+Q: What can you tell me about topic 208?
+A: I can tell you some interesting facts about topic 208.
+END;
+
+Q: How do you feel about subject 208?
+A: I think subject 208 is quite fascinating!
+END;
+
+Q: Can you help me with query 208?
+A: Of course, I'm here to help with query 208!
+END;
+
+Q: What can you tell me about topic 209?
+A: I can tell you some interesting facts about topic 209.
+END;
+
+Q: How do you feel about subject 209?
+A: I think subject 209 is quite fascinating!
+END;
+
+Q: Can you help me with query 209?
+A: Of course, I'm here to help with query 209!
+END;
+
+Q: What can you tell me about topic 210?
+A: I can tell you some interesting facts about topic 210.
+END;
+
+Q: How do you feel about subject 210?
+A: I think subject 210 is quite fascinating!
+END;
+
+Q: Can you help me with query 210?
+A: Of course, I'm here to help with query 210!
+END;
+
+Q: What can you tell me about topic 211?
+A: I can tell you some interesting facts about topic 211.
+END;
+
+Q: How do you feel about subject 211?
+A: I think subject 211 is quite fascinating!
+END;
+
+Q: Can you help me with query 211?
+A: Of course, I'm here to help with query 211!
+END;
+
+Q: What can you tell me about topic 212?
+A: I can tell you some interesting facts about topic 212.
+END;
+
+Q: How do you feel about subject 212?
+A: I think subject 212 is quite fascinating!
+END;
+
+Q: Can you help me with query 212?
+A: Of course, I'm here to help with query 212!
+END;
+
+Q: What can you tell me about topic 213?
+A: I can tell you some interesting facts about topic 213.
+END;
+
+Q: How do you feel about subject 213?
+A: I think subject 213 is quite fascinating!
+END;
+
+Q: Can you help me with query 213?
+A: Of course, I'm here to help with query 213!
+END;
+
+Q: What can you tell me about topic 214?
+A: I can tell you some interesting facts about topic 214.
+END;
+
+Q: How do you feel about subject 214?
+A: I think subject 214 is quite fascinating!
+END;
+
+Q: Can you help me with query 214?
+A: Of course, I'm here to help with query 214!
+END;
+
+Q: What can you tell me about topic 215?
+A: I can tell you some interesting facts about topic 215.
+END;
+
+Q: How do you feel about subject 215?
+A: I think subject 215 is quite fascinating!
+END;
+
+Q: Can you help me with query 215?
+A: Of course, I'm here to help with query 215!
+END;
+
+Q: What can you tell me about topic 216?
+A: I can tell you some interesting facts about topic 216.
+END;
+
+Q: How do you feel about subject 216?
+A: I think subject 216 is quite fascinating!
+END;
+
+Q: Can you help me with query 216?
+A: Of course, I'm here to help with query 216!
+END;
+
+Q: What can you tell me about topic 217?
+A: I can tell you some interesting facts about topic 217.
+END;
+
+Q: How do you feel about subject 217?
+A: I think subject 217 is quite fascinating!
+END;
+
+Q: Can you help me with query 217?
+A: Of course, I'm here to help with query 217!
+END;
+
+Q: What can you tell me about topic 218?
+A: I can tell you some interesting facts about topic 218.
+END;
+
+Q: How do you feel about subject 218?
+A: I think subject 218 is quite fascinating!
+END;
+
+Q: Can you help me with query 218?
+A: Of course, I'm here to help with query 218!
+END;
+
+Q: What can you tell me about topic 219?
+A: I can tell you some interesting facts about topic 219.
+END;
+
+Q: How do you feel about subject 219?
+A: I think subject 219 is quite fascinating!
+END;
+
+Q: Can you help me with query 219?
+A: Of course, I'm here to help with query 219!
+END;
+
+Q: What can you tell me about topic 220?
+A: I can tell you some interesting facts about topic 220.
+END;
+
+Q: How do you feel about subject 220?
+A: I think subject 220 is quite fascinating!
+END;
+
+Q: Can you help me with query 220?
+A: Of course, I'm here to help with query 220!
+END;
+
+Q: What can you tell me about topic 221?
+A: I can tell you some interesting facts about topic 221.
+END;
+
+Q: How do you feel about subject 221?
+A: I think subject 221 is quite fascinating!
+END;
+
+Q: Can you help me with query 221?
+A: Of course, I'm here to help with query 221!
+END;
+
+Q: What can you tell me about topic 222?
+A: I can tell you some interesting facts about topic 222.
+END;
+
+Q: How do you feel about subject 222?
+A: I think subject 222 is quite fascinating!
+END;
+
+Q: Can you help me with query 222?
+A: Of course, I'm here to help with query 222!
+END;
+
+Q: What can you tell me about topic 223?
+A: I can tell you some interesting facts about topic 223.
+END;
+
+Q: How do you feel about subject 223?
+A: I think subject 223 is quite fascinating!
+END;
+
+Q: Can you help me with query 223?
+A: Of course, I'm here to help with query 223!
+END;
+
+Q: What can you tell me about topic 224?
+A: I can tell you some interesting facts about topic 224.
+END;
+
+Q: How do you feel about subject 224?
+A: I think subject 224 is quite fascinating!
+END;
+
+Q: Can you help me with query 224?
+A: Of course, I'm here to help with query 224!
+END;
+
+Q: What can you tell me about topic 225?
+A: I can tell you some interesting facts about topic 225.
+END;
+
+Q: How do you feel about subject 225?
+A: I think subject 225 is quite fascinating!
+END;
+
+Q: Can you help me with query 225?
+A: Of course, I'm here to help with query 225!
+END;
+
+Q: What can you tell me about topic 226?
+A: I can tell you some interesting facts about topic 226.
+END;
+
+Q: How do you feel about subject 226?
+A: I think subject 226 is quite fascinating!
+END;
+
+Q: Can you help me with query 226?
+A: Of course, I'm here to help with query 226!
+END;
+
+Q: What can you tell me about topic 227?
+A: I can tell you some interesting facts about topic 227.
+END;
+
+Q: How do you feel about subject 227?
+A: I think subject 227 is quite fascinating!
+END;
+
+Q: Can you help me with query 227?
+A: Of course, I'm here to help with query 227!
+END;
+
+Q: What can you tell me about topic 228?
+A: I can tell you some interesting facts about topic 228.
+END;
+
+Q: How do you feel about subject 228?
+A: I think subject 228 is quite fascinating!
+END;
+
+Q: Can you help me with query 228?
+A: Of course, I'm here to help with query 228!
+END;
+
+Q: What can you tell me about topic 229?
+A: I can tell you some interesting facts about topic 229.
+END;
+
+Q: How do you feel about subject 229?
+A: I think subject 229 is quite fascinating!
+END;
+
+Q: Can you help me with query 229?
+A: Of course, I'm here to help with query 229!
+END;
+
+Q: What can you tell me about topic 230?
+A: I can tell you some interesting facts about topic 230.
+END;
+
+Q: How do you feel about subject 230?
+A: I think subject 230 is quite fascinating!
+END;
+
+Q: Can you help me with query 230?
+A: Of course, I'm here to help with query 230!
+END;
+
+Q: What can you tell me about topic 231?
+A: I can tell you some interesting facts about topic 231.
+END;
+
+Q: How do you feel about subject 231?
+A: I think subject 231 is quite fascinating!
+END;
+
+Q: Can you help me with query 231?
+A: Of course, I'm here to help with query 231!
+END;
+
+Q: What can you tell me about topic 232?
+A: I can tell you some interesting facts about topic 232.
+END;
+
+Q: How do you feel about subject 232?
+A: I think subject 232 is quite fascinating!
+END;
+
+Q: Can you help me with query 232?
+A: Of course, I'm here to help with query 232!
+END;
+
+Q: What can you tell me about topic 233?
+A: I can tell you some interesting facts about topic 233.
+END;
+
+Q: How do you feel about subject 233?
+A: I think subject 233 is quite fascinating!
+END;
+
+Q: Can you help me with query 233?
+A: Of course, I'm here to help with query 233!
+END;
+
+Q: What can you tell me about topic 234?
+A: I can tell you some interesting facts about topic 234.
+END;
+
+Q: How do you feel about subject 234?
+A: I think subject 234 is quite fascinating!
+END;
+
+Q: Can you help me with query 234?
+A: Of course, I'm here to help with query 234!
+END;
+
+Q: What can you tell me about topic 235?
+A: I can tell you some interesting facts about topic 235.
+END;
+
+Q: How do you feel about subject 235?
+A: I think subject 235 is quite fascinating!
+END;
+
+Q: Can you help me with query 235?
+A: Of course, I'm here to help with query 235!
+END;
+
+Q: What can you tell me about topic 236?
+A: I can tell you some interesting facts about topic 236.
+END;
+
+Q: How do you feel about subject 236?
+A: I think subject 236 is quite fascinating!
+END;
+
+Q: Can you help me with query 236?
+A: Of course, I'm here to help with query 236!
+END;
+
+Q: What can you tell me about topic 237?
+A: I can tell you some interesting facts about topic 237.
+END;
+
+Q: How do you feel about subject 237?
+A: I think subject 237 is quite fascinating!
+END;
+
+Q: Can you help me with query 237?
+A: Of course, I'm here to help with query 237!
+END;
+
+Q: What can you tell me about topic 238?
+A: I can tell you some interesting facts about topic 238.
+END;
+
+Q: How do you feel about subject 238?
+A: I think subject 238 is quite fascinating!
+END;
+
+Q: Can you help me with query 238?
+A: Of course, I'm here to help with query 238!
+END;
+
+Q: What can you tell me about topic 239?
+A: I can tell you some interesting facts about topic 239.
+END;
+
+Q: How do you feel about subject 239?
+A: I think subject 239 is quite fascinating!
+END;
+
+Q: Can you help me with query 239?
+A: Of course, I'm here to help with query 239!
+END;
+
+Q: What can you tell me about topic 240?
+A: I can tell you some interesting facts about topic 240.
+END;
+
+Q: How do you feel about subject 240?
+A: I think subject 240 is quite fascinating!
+END;
+
+Q: Can you help me with query 240?
+A: Of course, I'm here to help with query 240!
+END;
+
+Q: What can you tell me about topic 241?
+A: I can tell you some interesting facts about topic 241.
+END;
+
+Q: How do you feel about subject 241?
+A: I think subject 241 is quite fascinating!
+END;
+
+Q: Can you help me with query 241?
+A: Of course, I'm here to help with query 241!
+END;
+
+Q: What can you tell me about topic 242?
+A: I can tell you some interesting facts about topic 242.
+END;
+
+Q: How do you feel about subject 242?
+A: I think subject 242 is quite fascinating!
+END;
+
+Q: Can you help me with query 242?
+A: Of course, I'm here to help with query 242!
+END;
+
+Q: What can you tell me about topic 243?
+A: I can tell you some interesting facts about topic 243.
+END;
+
+Q: How do you feel about subject 243?
+A: I think subject 243 is quite fascinating!
+END;
+
+Q: Can you help me with query 243?
+A: Of course, I'm here to help with query 243!
+END;
+
+Q: What can you tell me about topic 244?
+A: I can tell you some interesting facts about topic 244.
+END;
+
+Q: How do you feel about subject 244?
+A: I think subject 244 is quite fascinating!
+END;
+
+Q: Can you help me with query 244?
+A: Of course, I'm here to help with query 244!
+END;
+
+Q: What can you tell me about topic 245?
+A: I can tell you some interesting facts about topic 245.
+END;
+
+Q: How do you feel about subject 245?
+A: I think subject 245 is quite fascinating!
+END;
+
+Q: Can you help me with query 245?
+A: Of course, I'm here to help with query 245!
+END;
+
+Q: What can you tell me about topic 246?
+A: I can tell you some interesting facts about topic 246.
+END;
+
+Q: How do you feel about subject 246?
+A: I think subject 246 is quite fascinating!
+END;
+
+Q: Can you help me with query 246?
+A: Of course, I'm here to help with query 246!
+END;
+
+Q: What can you tell me about topic 247?
+A: I can tell you some interesting facts about topic 247.
+END;
+
+Q: How do you feel about subject 247?
+A: I think subject 247 is quite fascinating!
+END;
+
+Q: Can you help me with query 247?
+A: Of course, I'm here to help with query 247!
+END;
+
+Q: What can you tell me about topic 248?
+A: I can tell you some interesting facts about topic 248.
+END;
+
+Q: How do you feel about subject 248?
+A: I think subject 248 is quite fascinating!
+END;
+
+Q: Can you help me with query 248?
+A: Of course, I'm here to help with query 248!
+END;
+
+Q: What can you tell me about topic 249?
+A: I can tell you some interesting facts about topic 249.
+END;
+
+Q: How do you feel about subject 249?
+A: I think subject 249 is quite fascinating!
+END;
+
+Q: Can you help me with query 249?
+A: Of course, I'm here to help with query 249!
+END;
+
+Q: What can you tell me about topic 250?
+A: I can tell you some interesting facts about topic 250.
+END;
+
+Q: How do you feel about subject 250?
+A: I think subject 250 is quite fascinating!
+END;
+
+Q: Can you help me with query 250?
+A: Of course, I'm here to help with query 250!
+END;
+
+Q: What can you tell me about topic 251?
+A: I can tell you some interesting facts about topic 251.
+END;
+
+Q: How do you feel about subject 251?
+A: I think subject 251 is quite fascinating!
+END;
+
+Q: Can you help me with query 251?
+A: Of course, I'm here to help with query 251!
+END;
+
+Q: What can you tell me about topic 252?
+A: I can tell you some interesting facts about topic 252.
+END;
+
+Q: How do you feel about subject 252?
+A: I think subject 252 is quite fascinating!
+END;
+
+Q: Can you help me with query 252?
+A: Of course, I'm here to help with query 252!
+END;
+
+Q: What can you tell me about topic 253?
+A: I can tell you some interesting facts about topic 253.
+END;
+
+Q: How do you feel about subject 253?
+A: I think subject 253 is quite fascinating!
+END;
+
+Q: Can you help me with query 253?
+A: Of course, I'm here to help with query 253!
+END;
+
+Q: What can you tell me about topic 254?
+A: I can tell you some interesting facts about topic 254.
+END;
+
+Q: How do you feel about subject 254?
+A: I think subject 254 is quite fascinating!
+END;
+
+Q: Can you help me with query 254?
+A: Of course, I'm here to help with query 254!
+END;
+
+Q: What can you tell me about topic 255?
+A: I can tell you some interesting facts about topic 255.
+END;
+
+Q: How do you feel about subject 255?
+A: I think subject 255 is quite fascinating!
+END;
+
+Q: Can you help me with query 255?
+A: Of course, I'm here to help with query 255!
+END;
+
+Q: What can you tell me about topic 256?
+A: I can tell you some interesting facts about topic 256.
+END;
+
+Q: How do you feel about subject 256?
+A: I think subject 256 is quite fascinating!
+END;
+
+Q: Can you help me with query 256?
+A: Of course, I'm here to help with query 256!
+END;
+
+Q: What can you tell me about topic 257?
+A: I can tell you some interesting facts about topic 257.
+END;
+
+Q: How do you feel about subject 257?
+A: I think subject 257 is quite fascinating!
+END;
+
+Q: Can you help me with query 257?
+A: Of course, I'm here to help with query 257!
+END;
+
+Q: What can you tell me about topic 258?
+A: I can tell you some interesting facts about topic 258.
+END;
+
+Q: How do you feel about subject 258?
+A: I think subject 258 is quite fascinating!
+END;
+
+Q: Can you help me with query 258?
+A: Of course, I'm here to help with query 258!
+END;
+
+Q: What can you tell me about topic 259?
+A: I can tell you some interesting facts about topic 259.
+END;
+
+Q: How do you feel about subject 259?
+A: I think subject 259 is quite fascinating!
+END;
+
+Q: Can you help me with query 259?
+A: Of course, I'm here to help with query 259!
+END;
+
+Q: What can you tell me about topic 260?
+A: I can tell you some interesting facts about topic 260.
+END;
+
+Q: How do you feel about subject 260?
+A: I think subject 260 is quite fascinating!
+END;
+
+Q: Can you help me with query 260?
+A: Of course, I'm here to help with query 260!
+END;
+
+Q: What can you tell me about topic 261?
+A: I can tell you some interesting facts about topic 261.
+END;
+
+Q: How do you feel about subject 261?
+A: I think subject 261 is quite fascinating!
+END;
+
+Q: Can you help me with query 261?
+A: Of course, I'm here to help with query 261!
+END;
+
+Q: What can you tell me about topic 262?
+A: I can tell you some interesting facts about topic 262.
+END;
+
+Q: How do you feel about subject 262?
+A: I think subject 262 is quite fascinating!
+END;
+
+Q: Can you help me with query 262?
+A: Of course, I'm here to help with query 262!
+END;
+
+Q: What can you tell me about topic 263?
+A: I can tell you some interesting facts about topic 263.
+END;
+
+Q: How do you feel about subject 263?
+A: I think subject 263 is quite fascinating!
+END;
+
+Q: Can you help me with query 263?
+A: Of course, I'm here to help with query 263!
+END;
+
+Q: What can you tell me about topic 264?
+A: I can tell you some interesting facts about topic 264.
+END;
+
+Q: How do you feel about subject 264?
+A: I think subject 264 is quite fascinating!
+END;
+
+Q: Can you help me with query 264?
+A: Of course, I'm here to help with query 264!
+END;
+
+Q: What can you tell me about topic 265?
+A: I can tell you some interesting facts about topic 265.
+END;
+
+Q: How do you feel about subject 265?
+A: I think subject 265 is quite fascinating!
+END;
+
+Q: Can you help me with query 265?
+A: Of course, I'm here to help with query 265!
+END;
+
+Q: What can you tell me about topic 266?
+A: I can tell you some interesting facts about topic 266.
+END;
+
+Q: How do you feel about subject 266?
+A: I think subject 266 is quite fascinating!
+END;
+
+Q: Can you help me with query 266?
+A: Of course, I'm here to help with query 266!
+END;
+
+Q: What can you tell me about topic 267?
+A: I can tell you some interesting facts about topic 267.
+END;
+
+Q: How do you feel about subject 267?
+A: I think subject 267 is quite fascinating!
+END;
+
+Q: Can you help me with query 267?
+A: Of course, I'm here to help with query 267!
+END;
+
+Q: What can you tell me about topic 268?
+A: I can tell you some interesting facts about topic 268.
+END;
+
+Q: How do you feel about subject 268?
+A: I think subject 268 is quite fascinating!
+END;
+
+Q: Can you help me with query 268?
+A: Of course, I'm here to help with query 268!
+END;
+
+Q: What can you tell me about topic 269?
+A: I can tell you some interesting facts about topic 269.
+END;
+
+Q: How do you feel about subject 269?
+A: I think subject 269 is quite fascinating!
+END;
+
+Q: Can you help me with query 269?
+A: Of course, I'm here to help with query 269!
+END;
+
+Q: What can you tell me about topic 270?
+A: I can tell you some interesting facts about topic 270.
+END;
+
+Q: How do you feel about subject 270?
+A: I think subject 270 is quite fascinating!
+END;
+
+Q: Can you help me with query 270?
+A: Of course, I'm here to help with query 270!
+END;
+
+Q: What can you tell me about topic 271?
+A: I can tell you some interesting facts about topic 271.
+END;
+
+Q: How do you feel about subject 271?
+A: I think subject 271 is quite fascinating!
+END;
+
+Q: Can you help me with query 271?
+A: Of course, I'm here to help with query 271!
+END;
+
+Q: What can you tell me about topic 272?
+A: I can tell you some interesting facts about topic 272.
+END;
+
+Q: How do you feel about subject 272?
+A: I think subject 272 is quite fascinating!
+END;
+
+Q: Can you help me with query 272?
+A: Of course, I'm here to help with query 272!
+END;
+
+Q: What can you tell me about topic 273?
+A: I can tell you some interesting facts about topic 273.
+END;
+
+Q: How do you feel about subject 273?
+A: I think subject 273 is quite fascinating!
+END;
+
+Q: Can you help me with query 273?
+A: Of course, I'm here to help with query 273!
+END;
+
+Q: What can you tell me about topic 274?
+A: I can tell you some interesting facts about topic 274.
+END;
+
+Q: How do you feel about subject 274?
+A: I think subject 274 is quite fascinating!
+END;
+
+Q: Can you help me with query 274?
+A: Of course, I'm here to help with query 274!
+END;
+
+Q: What can you tell me about topic 275?
+A: I can tell you some interesting facts about topic 275.
+END;
+
+Q: How do you feel about subject 275?
+A: I think subject 275 is quite fascinating!
+END;
+
+Q: Can you help me with query 275?
+A: Of course, I'm here to help with query 275!
+END;
+
+Q: What can you tell me about topic 276?
+A: I can tell you some interesting facts about topic 276.
+END;
+
+Q: How do you feel about subject 276?
+A: I think subject 276 is quite fascinating!
+END;
+
+Q: Can you help me with query 276?
+A: Of course, I'm here to help with query 276!
+END;
+
+Q: What can you tell me about topic 277?
+A: I can tell you some interesting facts about topic 277.
+END;
+
+Q: How do you feel about subject 277?
+A: I think subject 277 is quite fascinating!
+END;
+
+Q: Can you help me with query 277?
+A: Of course, I'm here to help with query 277!
+END;
+
+Q: What can you tell me about topic 278?
+A: I can tell you some interesting facts about topic 278.
+END;
+
+Q: How do you feel about subject 278?
+A: I think subject 278 is quite fascinating!
+END;
+
+Q: Can you help me with query 278?
+A: Of course, I'm here to help with query 278!
+END;
+
+Q: What can you tell me about topic 279?
+A: I can tell you some interesting facts about topic 279.
+END;
+
+Q: How do you feel about subject 279?
+A: I think subject 279 is quite fascinating!
+END;
+
+Q: Can you help me with query 279?
+A: Of course, I'm here to help with query 279!
+END;
+
+Q: What can you tell me about topic 280?
+A: I can tell you some interesting facts about topic 280.
+END;
+
+Q: How do you feel about subject 280?
+A: I think subject 280 is quite fascinating!
+END;
+
+Q: Can you help me with query 280?
+A: Of course, I'm here to help with query 280!
+END;
+
+Q: What can you tell me about topic 281?
+A: I can tell you some interesting facts about topic 281.
+END;
+
+Q: How do you feel about subject 281?
+A: I think subject 281 is quite fascinating!
+END;
+
+Q: Can you help me with query 281?
+A: Of course, I'm here to help with query 281!
+END;
+
+Q: What can you tell me about topic 282?
+A: I can tell you some interesting facts about topic 282.
+END;
+
+Q: How do you feel about subject 282?
+A: I think subject 282 is quite fascinating!
+END;
+
+Q: Can you help me with query 282?
+A: Of course, I'm here to help with query 282!
+END;
+
+Q: What can you tell me about topic 283?
+A: I can tell you some interesting facts about topic 283.
+END;
+
+Q: How do you feel about subject 283?
+A: I think subject 283 is quite fascinating!
+END;
+
+Q: Can you help me with query 283?
+A: Of course, I'm here to help with query 283!
+END;
+
+Q: What can you tell me about topic 284?
+A: I can tell you some interesting facts about topic 284.
+END;
+
+Q: How do you feel about subject 284?
+A: I think subject 284 is quite fascinating!
+END;
+
+Q: Can you help me with query 284?
+A: Of course, I'm here to help with query 284!
+END;
+
+Q: What can you tell me about topic 285?
+A: I can tell you some interesting facts about topic 285.
+END;
+
+Q: How do you feel about subject 285?
+A: I think subject 285 is quite fascinating!
+END;
+
+Q: Can you help me with query 285?
+A: Of course, I'm here to help with query 285!
+END;
+
+Q: What can you tell me about topic 286?
+A: I can tell you some interesting facts about topic 286.
+END;
+
+Q: How do you feel about subject 286?
+A: I think subject 286 is quite fascinating!
+END;
+
+Q: Can you help me with query 286?
+A: Of course, I'm here to help with query 286!
+END;
+
+Q: What can you tell me about topic 287?
+A: I can tell you some interesting facts about topic 287.
+END;
+
+Q: How do you feel about subject 287?
+A: I think subject 287 is quite fascinating!
+END;
+
+Q: Can you help me with query 287?
+A: Of course, I'm here to help with query 287!
+END;
+
+Q: What can you tell me about topic 288?
+A: I can tell you some interesting facts about topic 288.
+END;
+
+Q: How do you feel about subject 288?
+A: I think subject 288 is quite fascinating!
+END;
+
+Q: Can you help me with query 288?
+A: Of course, I'm here to help with query 288!
+END;
+
+Q: What can you tell me about topic 289?
+A: I can tell you some interesting facts about topic 289.
+END;
+
+Q: How do you feel about subject 289?
+A: I think subject 289 is quite fascinating!
+END;
+
+Q: Can you help me with query 289?
+A: Of course, I'm here to help with query 289!
+END;
+
+Q: What can you tell me about topic 290?
+A: I can tell you some interesting facts about topic 290.
+END;
+
+Q: How do you feel about subject 290?
+A: I think subject 290 is quite fascinating!
+END;
+
+Q: Can you help me with query 290?
+A: Of course, I'm here to help with query 290!
+END;
+
+Q: What can you tell me about topic 291?
+A: I can tell you some interesting facts about topic 291.
+END;
+
+Q: How do you feel about subject 291?
+A: I think subject 291 is quite fascinating!
+END;
+
+Q: Can you help me with query 291?
+A: Of course, I'm here to help with query 291!
+END;
+
+Q: What can you tell me about topic 292?
+A: I can tell you some interesting facts about topic 292.
+END;
+
+Q: How do you feel about subject 292?
+A: I think subject 292 is quite fascinating!
+END;
+
+Q: Can you help me with query 292?
+A: Of course, I'm here to help with query 292!
+END;
+
+Q: What can you tell me about topic 293?
+A: I can tell you some interesting facts about topic 293.
+END;
+
+Q: How do you feel about subject 293?
+A: I think subject 293 is quite fascinating!
+END;
+
+Q: Can you help me with query 293?
+A: Of course, I'm here to help with query 293!
+END;
+
+Q: What can you tell me about topic 294?
+A: I can tell you some interesting facts about topic 294.
+END;
+
+Q: How do you feel about subject 294?
+A: I think subject 294 is quite fascinating!
+END;
+
+Q: Can you help me with query 294?
+A: Of course, I'm here to help with query 294!
+END;
+
+Q: What can you tell me about topic 295?
+A: I can tell you some interesting facts about topic 295.
+END;
+
+Q: How do you feel about subject 295?
+A: I think subject 295 is quite fascinating!
+END;
+
+Q: Can you help me with query 295?
+A: Of course, I'm here to help with query 295!
+END;
+
+Q: What can you tell me about topic 296?
+A: I can tell you some interesting facts about topic 296.
+END;
+
+Q: How do you feel about subject 296?
+A: I think subject 296 is quite fascinating!
+END;
+
+Q: Can you help me with query 296?
+A: Of course, I'm here to help with query 296!
+END;
+
+Q: What can you tell me about topic 297?
+A: I can tell you some interesting facts about topic 297.
+END;
+
+Q: How do you feel about subject 297?
+A: I think subject 297 is quite fascinating!
+END;
+
+Q: Can you help me with query 297?
+A: Of course, I'm here to help with query 297!
+END;
+
+Q: What can you tell me about topic 298?
+A: I can tell you some interesting facts about topic 298.
+END;
+
+Q: How do you feel about subject 298?
+A: I think subject 298 is quite fascinating!
+END;
+
+Q: Can you help me with query 298?
+A: Of course, I'm here to help with query 298!
+END;
+
+Q: What can you tell me about topic 299?
+A: I can tell you some interesting facts about topic 299.
+END;
+
+Q: How do you feel about subject 299?
+A: I think subject 299 is quite fascinating!
+END;
+
+Q: Can you help me with query 299?
+A: Of course, I'm here to help with query 299!
+END;
+
+Q: What can you tell me about topic 300?
+A: I can tell you some interesting facts about topic 300.
+END;
+
+Q: How do you feel about subject 300?
+A: I think subject 300 is quite fascinating!
+END;
+
+Q: Can you help me with query 300?
+A: Of course, I'm here to help with query 300!
+END;
+
+Q: What can you tell me about topic 301?
+A: I can tell you some interesting facts about topic 301.
+END;
+
+Q: How do you feel about subject 301?
+A: I think subject 301 is quite fascinating!
+END;
+
+Q: Can you help me with query 301?
+A: Of course, I'm here to help with query 301!
+END;
+
+Q: What can you tell me about topic 302?
+A: I can tell you some interesting facts about topic 302.
+END;
+
+Q: How do you feel about subject 302?
+A: I think subject 302 is quite fascinating!
+END;
+
+Q: Can you help me with query 302?
+A: Of course, I'm here to help with query 302!
+END;
+
+Q: What can you tell me about topic 303?
+A: I can tell you some interesting facts about topic 303.
+END;
+
+Q: How do you feel about subject 303?
+A: I think subject 303 is quite fascinating!
+END;
+
+Q: Can you help me with query 303?
+A: Of course, I'm here to help with query 303!
+END;
+
+Q: What can you tell me about topic 304?
+A: I can tell you some interesting facts about topic 304.
+END;
+
+Q: How do you feel about subject 304?
+A: I think subject 304 is quite fascinating!
+END;
+
+Q: Can you help me with query 304?
+A: Of course, I'm here to help with query 304!
+END;
+
+Q: What can you tell me about topic 305?
+A: I can tell you some interesting facts about topic 305.
+END;
+
+Q: How do you feel about subject 305?
+A: I think subject 305 is quite fascinating!
+END;
+
+Q: Can you help me with query 305?
+A: Of course, I'm here to help with query 305!
+END;
+
+Q: What can you tell me about topic 306?
+A: I can tell you some interesting facts about topic 306.
+END;
+
+Q: How do you feel about subject 306?
+A: I think subject 306 is quite fascinating!
+END;
+
+Q: Can you help me with query 306?
+A: Of course, I'm here to help with query 306!
+END;
+
+Q: What can you tell me about topic 307?
+A: I can tell you some interesting facts about topic 307.
+END;
+
+Q: How do you feel about subject 307?
+A: I think subject 307 is quite fascinating!
+END;
+
+Q: Can you help me with query 307?
+A: Of course, I'm here to help with query 307!
+END;
+
+Q: What can you tell me about topic 308?
+A: I can tell you some interesting facts about topic 308.
+END;
+
+Q: How do you feel about subject 308?
+A: I think subject 308 is quite fascinating!
+END;
+
+Q: Can you help me with query 308?
+A: Of course, I'm here to help with query 308!
+END;
+
+Q: What can you tell me about topic 309?
+A: I can tell you some interesting facts about topic 309.
+END;
+
+Q: How do you feel about subject 309?
+A: I think subject 309 is quite fascinating!
+END;
+
+Q: Can you help me with query 309?
+A: Of course, I'm here to help with query 309!
+END;
+
+Q: What can you tell me about topic 310?
+A: I can tell you some interesting facts about topic 310.
+END;
+
+Q: How do you feel about subject 310?
+A: I think subject 310 is quite fascinating!
+END;
+
+Q: Can you help me with query 310?
+A: Of course, I'm here to help with query 310!
+END;
+
+Q: What can you tell me about topic 311?
+A: I can tell you some interesting facts about topic 311.
+END;
+
+Q: How do you feel about subject 311?
+A: I think subject 311 is quite fascinating!
+END;
+
+Q: Can you help me with query 311?
+A: Of course, I'm here to help with query 311!
+END;
+
+Q: What can you tell me about topic 312?
+A: I can tell you some interesting facts about topic 312.
+END;
+
+Q: How do you feel about subject 312?
+A: I think subject 312 is quite fascinating!
+END;
+
+Q: Can you help me with query 312?
+A: Of course, I'm here to help with query 312!
+END;
+
+Q: What can you tell me about topic 313?
+A: I can tell you some interesting facts about topic 313.
+END;
+
+Q: How do you feel about subject 313?
+A: I think subject 313 is quite fascinating!
+END;
+
+Q: Can you help me with query 313?
+A: Of course, I'm here to help with query 313!
+END;
+
+Q: What can you tell me about topic 314?
+A: I can tell you some interesting facts about topic 314.
+END;
+
+Q: How do you feel about subject 314?
+A: I think subject 314 is quite fascinating!
+END;
+
+Q: Can you help me with query 314?
+A: Of course, I'm here to help with query 314!
+END;
+
+Q: What can you tell me about topic 315?
+A: I can tell you some interesting facts about topic 315.
+END;
+
+Q: How do you feel about subject 315?
+A: I think subject 315 is quite fascinating!
+END;
+
+Q: Can you help me with query 315?
+A: Of course, I'm here to help with query 315!
+END;
+
+Q: What can you tell me about topic 316?
+A: I can tell you some interesting facts about topic 316.
+END;
+
+Q: How do you feel about subject 316?
+A: I think subject 316 is quite fascinating!
+END;
+
+Q: Can you help me with query 316?
+A: Of course, I'm here to help with query 316!
+END;
+
+Q: What can you tell me about topic 317?
+A: I can tell you some interesting facts about topic 317.
+END;
+
+Q: How do you feel about subject 317?
+A: I think subject 317 is quite fascinating!
+END;
+
+Q: Can you help me with query 317?
+A: Of course, I'm here to help with query 317!
+END;
+
+Q: What can you tell me about topic 318?
+A: I can tell you some interesting facts about topic 318.
+END;
+
+Q: How do you feel about subject 318?
+A: I think subject 318 is quite fascinating!
+END;
+
+Q: Can you help me with query 318?
+A: Of course, I'm here to help with query 318!
+END;
+
+Q: What can you tell me about topic 319?
+A: I can tell you some interesting facts about topic 319.
+END;
+
+Q: How do you feel about subject 319?
+A: I think subject 319 is quite fascinating!
+END;
+
+Q: Can you help me with query 319?
+A: Of course, I'm here to help with query 319!
+END;
+
+Q: What can you tell me about topic 320?
+A: I can tell you some interesting facts about topic 320.
+END;
+
+Q: How do you feel about subject 320?
+A: I think subject 320 is quite fascinating!
+END;
+
+Q: Can you help me with query 320?
+A: Of course, I'm here to help with query 320!
+END;
+
+Q: What can you tell me about topic 321?
+A: I can tell you some interesting facts about topic 321.
+END;
+
+Q: How do you feel about subject 321?
+A: I think subject 321 is quite fascinating!
+END;
+
+Q: Can you help me with query 321?
+A: Of course, I'm here to help with query 321!
+END;
+
+Q: What can you tell me about topic 322?
+A: I can tell you some interesting facts about topic 322.
+END;
+
+Q: How do you feel about subject 322?
+A: I think subject 322 is quite fascinating!
+END;
+
+Q: Can you help me with query 322?
+A: Of course, I'm here to help with query 322!
+END;
+
+Q: What can you tell me about topic 323?
+A: I can tell you some interesting facts about topic 323.
+END;
+
+Q: How do you feel about subject 323?
+A: I think subject 323 is quite fascinating!
+END;
+
+Q: Can you help me with query 323?
+A: Of course, I'm here to help with query 323!
+END;
+
+Q: What can you tell me about topic 324?
+A: I can tell you some interesting facts about topic 324.
+END;
+
+Q: How do you feel about subject 324?
+A: I think subject 324 is quite fascinating!
+END;
+
+Q: Can you help me with query 324?
+A: Of course, I'm here to help with query 324!
+END;
+
+Q: What can you tell me about topic 325?
+A: I can tell you some interesting facts about topic 325.
+END;
+
+Q: How do you feel about subject 325?
+A: I think subject 325 is quite fascinating!
+END;
+
+Q: Can you help me with query 325?
+A: Of course, I'm here to help with query 325!
+END;
+
+Q: What can you tell me about topic 326?
+A: I can tell you some interesting facts about topic 326.
+END;
+
+Q: How do you feel about subject 326?
+A: I think subject 326 is quite fascinating!
+END;
+
+Q: Can you help me with query 326?
+A: Of course, I'm here to help with query 326!
+END;
+
+Q: What can you tell me about topic 327?
+A: I can tell you some interesting facts about topic 327.
+END;
+
+Q: How do you feel about subject 327?
+A: I think subject 327 is quite fascinating!
+END;
+
+Q: Can you help me with query 327?
+A: Of course, I'm here to help with query 327!
+END;
+
+Q: What can you tell me about topic 328?
+A: I can tell you some interesting facts about topic 328.
+END;
+
+Q: How do you feel about subject 328?
+A: I think subject 328 is quite fascinating!
+END;
+
+Q: Can you help me with query 328?
+A: Of course, I'm here to help with query 328!
+END;
+
+Q: What can you tell me about topic 329?
+A: I can tell you some interesting facts about topic 329.
+END;
+
+Q: How do you feel about subject 329?
+A: I think subject 329 is quite fascinating!
+END;
+
+Q: Can you help me with query 329?
+A: Of course, I'm here to help with query 329!
+END;
+
+Q: What can you tell me about topic 330?
+A: I can tell you some interesting facts about topic 330.
+END;
+
+Q: How do you feel about subject 330?
+A: I think subject 330 is quite fascinating!
+END;
+
+Q: Can you help me with query 330?
+A: Of course, I'm here to help with query 330!
+END;
+
+Q: What can you tell me about topic 331?
+A: I can tell you some interesting facts about topic 331.
+END;
+
+Q: How do you feel about subject 331?
+A: I think subject 331 is quite fascinating!
+END;
+
+Q: Can you help me with query 331?
+A: Of course, I'm here to help with query 331!
+END;
+
+Q: What can you tell me about topic 332?
+A: I can tell you some interesting facts about topic 332.
+END;
+
+Q: How do you feel about subject 332?
+A: I think subject 332 is quite fascinating!
+END;
+
+Q: Can you help me with query 332?
+A: Of course, I'm here to help with query 332!
+END;
+
+Q: What can you tell me about topic 333?
+A: I can tell you some interesting facts about topic 333.
+END;
+
+Q: How do you feel about subject 333?
+A: I think subject 333 is quite fascinating!
+END;
+
+Q: Can you help me with query 333?
+A: Of course, I'm here to help with query 333!
+END;
+
+Q: What can you tell me about topic 334?
+A: I can tell you some interesting facts about topic 334.
+END;
+
+Q: How do you feel about subject 334?
+A: I think subject 334 is quite fascinating!
+END;
+
+Q: Can you help me with query 334?
+A: Of course, I'm here to help with query 334!
+END;
+
+Q: What can you tell me about topic 335?
+A: I can tell you some interesting facts about topic 335.
+END;
+
+Q: How do you feel about subject 335?
+A: I think subject 335 is quite fascinating!
+END;
+
+Q: Can you help me with query 335?
+A: Of course, I'm here to help with query 335!
+END;
+
+Q: What can you tell me about topic 336?
+A: I can tell you some interesting facts about topic 336.
+END;
+
+Q: How do you feel about subject 336?
+A: I think subject 336 is quite fascinating!
+END;
+
+Q: Can you help me with query 336?
+A: Of course, I'm here to help with query 336!
+END;
+
+Q: What can you tell me about topic 337?
+A: I can tell you some interesting facts about topic 337.
+END;
+
+Q: How do you feel about subject 337?
+A: I think subject 337 is quite fascinating!
+END;
+
+Q: Can you help me with query 337?
+A: Of course, I'm here to help with query 337!
+END;
+
+Q: What can you tell me about topic 338?
+A: I can tell you some interesting facts about topic 338.
+END;
+
+Q: How do you feel about subject 338?
+A: I think subject 338 is quite fascinating!
+END;
+
+Q: Can you help me with query 338?
+A: Of course, I'm here to help with query 338!
+END;
+
+Q: What can you tell me about topic 339?
+A: I can tell you some interesting facts about topic 339.
+END;
+
+Q: How do you feel about subject 339?
+A: I think subject 339 is quite fascinating!
+END;
+
+Q: Can you help me with query 339?
+A: Of course, I'm here to help with query 339!
+END;
+
+Q: What can you tell me about topic 340?
+A: I can tell you some interesting facts about topic 340.
+END;
+
+Q: How do you feel about subject 340?
+A: I think subject 340 is quite fascinating!
+END;
+
+Q: Can you help me with query 340?
+A: Of course, I'm here to help with query 340!
+END;
+
+Q: What can you tell me about topic 341?
+A: I can tell you some interesting facts about topic 341.
+END;
+
+Q: How do you feel about subject 341?
+A: I think subject 341 is quite fascinating!
+END;
+
+Q: Can you help me with query 341?
+A: Of course, I'm here to help with query 341!
+END;
+
+Q: What can you tell me about topic 342?
+A: I can tell you some interesting facts about topic 342.
+END;
+
+Q: How do you feel about subject 342?
+A: I think subject 342 is quite fascinating!
+END;
+
+Q: Can you help me with query 342?
+A: Of course, I'm here to help with query 342!
+END;
+
+Q: What can you tell me about topic 343?
+A: I can tell you some interesting facts about topic 343.
+END;
+
+Q: How do you feel about subject 343?
+A: I think subject 343 is quite fascinating!
+END;
+
+Q: Can you help me with query 343?
+A: Of course, I'm here to help with query 343!
+END;
+
+Q: What can you tell me about topic 344?
+A: I can tell you some interesting facts about topic 344.
+END;
+
+Q: How do you feel about subject 344?
+A: I think subject 344 is quite fascinating!
+END;
+
+Q: Can you help me with query 344?
+A: Of course, I'm here to help with query 344!
+END;
+
+Q: What can you tell me about topic 345?
+A: I can tell you some interesting facts about topic 345.
+END;
+
+Q: How do you feel about subject 345?
+A: I think subject 345 is quite fascinating!
+END;
+
+Q: Can you help me with query 345?
+A: Of course, I'm here to help with query 345!
+END;
+
+Q: What can you tell me about topic 346?
+A: I can tell you some interesting facts about topic 346.
+END;
+
+Q: How do you feel about subject 346?
+A: I think subject 346 is quite fascinating!
+END;
+
+Q: Can you help me with query 346?
+A: Of course, I'm here to help with query 346!
+END;
+
+Q: What can you tell me about topic 347?
+A: I can tell you some interesting facts about topic 347.
+END;
+
+Q: How do you feel about subject 347?
+A: I think subject 347 is quite fascinating!
+END;
+
+Q: Can you help me with query 347?
+A: Of course, I'm here to help with query 347!
+END;
+
+Q: What can you tell me about topic 348?
+A: I can tell you some interesting facts about topic 348.
+END;
+
+Q: How do you feel about subject 348?
+A: I think subject 348 is quite fascinating!
+END;
+
+Q: Can you help me with query 348?
+A: Of course, I'm here to help with query 348!
+END;
+
+Q: What can you tell me about topic 349?
+A: I can tell you some interesting facts about topic 349.
+END;
+
+Q: How do you feel about subject 349?
+A: I think subject 349 is quite fascinating!
+END;
+
+Q: Can you help me with query 349?
+A: Of course, I'm here to help with query 349!
+END;
+
+Q: What can you tell me about topic 350?
+A: I can tell you some interesting facts about topic 350.
+END;
+
+Q: How do you feel about subject 350?
+A: I think subject 350 is quite fascinating!
+END;
+
+Q: Can you help me with query 350?
+A: Of course, I'm here to help with query 350!
+END;
+
+Q: What can you tell me about topic 351?
+A: I can tell you some interesting facts about topic 351.
+END;
+
+Q: How do you feel about subject 351?
+A: I think subject 351 is quite fascinating!
+END;
+
+Q: Can you help me with query 351?
+A: Of course, I'm here to help with query 351!
+END;
+
+Q: What can you tell me about topic 352?
+A: I can tell you some interesting facts about topic 352.
+END;
+
+Q: How do you feel about subject 352?
+A: I think subject 352 is quite fascinating!
+END;
+
+Q: Can you help me with query 352?
+A: Of course, I'm here to help with query 352!
+END;
+
+Q: What can you tell me about topic 353?
+A: I can tell you some interesting facts about topic 353.
+END;
+
+Q: How do you feel about subject 353?
+A: I think subject 353 is quite fascinating!
+END;
+
+Q: Can you help me with query 353?
+A: Of course, I'm here to help with query 353!
+END;
+
+Q: What can you tell me about topic 354?
+A: I can tell you some interesting facts about topic 354.
+END;
+
+Q: How do you feel about subject 354?
+A: I think subject 354 is quite fascinating!
+END;
+
+Q: Can you help me with query 354?
+A: Of course, I'm here to help with query 354!
+END;
+
+Q: What can you tell me about topic 355?
+A: I can tell you some interesting facts about topic 355.
+END;
+
+Q: How do you feel about subject 355?
+A: I think subject 355 is quite fascinating!
+END;
+
+Q: Can you help me with query 355?
+A: Of course, I'm here to help with query 355!
+END;
+
+Q: What can you tell me about topic 356?
+A: I can tell you some interesting facts about topic 356.
+END;
+
+Q: How do you feel about subject 356?
+A: I think subject 356 is quite fascinating!
+END;
+
+Q: Can you help me with query 356?
+A: Of course, I'm here to help with query 356!
+END;
+
+Q: What can you tell me about topic 357?
+A: I can tell you some interesting facts about topic 357.
+END;
+
+Q: How do you feel about subject 357?
+A: I think subject 357 is quite fascinating!
+END;
+
+Q: Can you help me with query 357?
+A: Of course, I'm here to help with query 357!
+END;
+
+Q: What can you tell me about topic 358?
+A: I can tell you some interesting facts about topic 358.
+END;
+
+Q: How do you feel about subject 358?
+A: I think subject 358 is quite fascinating!
+END;
+
+Q: Can you help me with query 358?
+A: Of course, I'm here to help with query 358!
+END;
+
+Q: What can you tell me about topic 359?
+A: I can tell you some interesting facts about topic 359.
+END;
+
+Q: How do you feel about subject 359?
+A: I think subject 359 is quite fascinating!
+END;
+
+Q: Can you help me with query 359?
+A: Of course, I'm here to help with query 359!
+END;
+
+Q: What can you tell me about topic 360?
+A: I can tell you some interesting facts about topic 360.
+END;
+
+Q: How do you feel about subject 360?
+A: I think subject 360 is quite fascinating!
+END;
+
+Q: Can you help me with query 360?
+A: Of course, I'm here to help with query 360!
+END;
+
+Q: What can you tell me about topic 361?
+A: I can tell you some interesting facts about topic 361.
+END;
+
+Q: How do you feel about subject 361?
+A: I think subject 361 is quite fascinating!
+END;
+
+Q: Can you help me with query 361?
+A: Of course, I'm here to help with query 361!
+END;
+
+Q: What can you tell me about topic 362?
+A: I can tell you some interesting facts about topic 362.
+END;
+
+Q: How do you feel about subject 362?
+A: I think subject 362 is quite fascinating!
+END;
+
+Q: Can you help me with query 362?
+A: Of course, I'm here to help with query 362!
+END;
+
+Q: What can you tell me about topic 363?
+A: I can tell you some interesting facts about topic 363.
+END;
+
+Q: How do you feel about subject 363?
+A: I think subject 363 is quite fascinating!
+END;
+
+Q: Can you help me with query 363?
+A: Of course, I'm here to help with query 363!
+END;
+
+Q: What can you tell me about topic 364?
+A: I can tell you some interesting facts about topic 364.
+END;
+
+Q: How do you feel about subject 364?
+A: I think subject 364 is quite fascinating!
+END;
+
+Q: Can you help me with query 364?
+A: Of course, I'm here to help with query 364!
+END;
+
+Q: What can you tell me about topic 365?
+A: I can tell you some interesting facts about topic 365.
+END;
+
+Q: How do you feel about subject 365?
+A: I think subject 365 is quite fascinating!
+END;
+
+Q: Can you help me with query 365?
+A: Of course, I'm here to help with query 365!
+END;
+
+Q: What can you tell me about topic 366?
+A: I can tell you some interesting facts about topic 366.
+END;
+
+Q: How do you feel about subject 366?
+A: I think subject 366 is quite fascinating!
+END;
+
+Q: Can you help me with query 366?
+A: Of course, I'm here to help with query 366!
+END;
+
+Q: What can you tell me about topic 367?
+A: I can tell you some interesting facts about topic 367.
+END;
+
+Q: How do you feel about subject 367?
+A: I think subject 367 is quite fascinating!
+END;
+
+Q: Can you help me with query 367?
+A: Of course, I'm here to help with query 367!
+END;
+
+Q: What can you tell me about topic 368?
+A: I can tell you some interesting facts about topic 368.
+END;
+
+Q: How do you feel about subject 368?
+A: I think subject 368 is quite fascinating!
+END;
+
+Q: Can you help me with query 368?
+A: Of course, I'm here to help with query 368!
+END;
+
+Q: What can you tell me about topic 369?
+A: I can tell you some interesting facts about topic 369.
+END;
+
+Q: How do you feel about subject 369?
+A: I think subject 369 is quite fascinating!
+END;
+
+Q: Can you help me with query 369?
+A: Of course, I'm here to help with query 369!
+END;
+
+Q: What can you tell me about topic 370?
+A: I can tell you some interesting facts about topic 370.
+END;
+
+Q: How do you feel about subject 370?
+A: I think subject 370 is quite fascinating!
+END;
+
+Q: Can you help me with query 370?
+A: Of course, I'm here to help with query 370!
+END;
+
+Q: What can you tell me about topic 371?
+A: I can tell you some interesting facts about topic 371.
+END;
+
+Q: How do you feel about subject 371?
+A: I think subject 371 is quite fascinating!
+END;
+
+Q: Can you help me with query 371?
+A: Of course, I'm here to help with query 371!
+END;
+
+Q: What can you tell me about topic 372?
+A: I can tell you some interesting facts about topic 372.
+END;
+
+Q: How do you feel about subject 372?
+A: I think subject 372 is quite fascinating!
+END;
+
+Q: Can you help me with query 372?
+A: Of course, I'm here to help with query 372!
+END;
+
+Q: What can you tell me about topic 373?
+A: I can tell you some interesting facts about topic 373.
+END;
+
+Q: How do you feel about subject 373?
+A: I think subject 373 is quite fascinating!
+END;
+
+Q: Can you help me with query 373?
+A: Of course, I'm here to help with query 373!
+END;
+
+Q: What can you tell me about topic 374?
+A: I can tell you some interesting facts about topic 374.
+END;
+
+Q: How do you feel about subject 374?
+A: I think subject 374 is quite fascinating!
+END;
+
+Q: Can you help me with query 374?
+A: Of course, I'm here to help with query 374!
+END;
+
+Q: What can you tell me about topic 375?
+A: I can tell you some interesting facts about topic 375.
+END;
+
+Q: How do you feel about subject 375?
+A: I think subject 375 is quite fascinating!
+END;
+
+Q: Can you help me with query 375?
+A: Of course, I'm here to help with query 375!
+END;
+
+Q: What can you tell me about topic 376?
+A: I can tell you some interesting facts about topic 376.
+END;
+
+Q: How do you feel about subject 376?
+A: I think subject 376 is quite fascinating!
+END;
+
+Q: Can you help me with query 376?
+A: Of course, I'm here to help with query 376!
+END;
+
+Q: What can you tell me about topic 377?
+A: I can tell you some interesting facts about topic 377.
+END;
+
+Q: How do you feel about subject 377?
+A: I think subject 377 is quite fascinating!
+END;
+
+Q: Can you help me with query 377?
+A: Of course, I'm here to help with query 377!
+END;
+
+Q: What can you tell me about topic 378?
+A: I can tell you some interesting facts about topic 378.
+END;
+
+Q: How do you feel about subject 378?
+A: I think subject 378 is quite fascinating!
+END;
+
+Q: Can you help me with query 378?
+A: Of course, I'm here to help with query 378!
+END;
+
+Q: What can you tell me about topic 379?
+A: I can tell you some interesting facts about topic 379.
+END;
+
+Q: How do you feel about subject 379?
+A: I think subject 379 is quite fascinating!
+END;
+
+Q: Can you help me with query 379?
+A: Of course, I'm here to help with query 379!
+END;
+
+Q: What can you tell me about topic 380?
+A: I can tell you some interesting facts about topic 380.
+END;
+
+Q: How do you feel about subject 380?
+A: I think subject 380 is quite fascinating!
+END;
+
+Q: Can you help me with query 380?
+A: Of course, I'm here to help with query 380!
+END;
+
+Q: What can you tell me about topic 381?
+A: I can tell you some interesting facts about topic 381.
+END;
+
+Q: How do you feel about subject 381?
+A: I think subject 381 is quite fascinating!
+END;
+
+Q: Can you help me with query 381?
+A: Of course, I'm here to help with query 381!
+END;
+
+Q: What can you tell me about topic 382?
+A: I can tell you some interesting facts about topic 382.
+END;
+
+Q: How do you feel about subject 382?
+A: I think subject 382 is quite fascinating!
+END;
+
+Q: Can you help me with query 382?
+A: Of course, I'm here to help with query 382!
+END;
+
+Q: What can you tell me about topic 383?
+A: I can tell you some interesting facts about topic 383.
+END;
+
+Q: How do you feel about subject 383?
+A: I think subject 383 is quite fascinating!
+END;
+
+Q: Can you help me with query 383?
+A: Of course, I'm here to help with query 383!
+END;
+
+Q: What can you tell me about topic 384?
+A: I can tell you some interesting facts about topic 384.
+END;
+
+Q: How do you feel about subject 384?
+A: I think subject 384 is quite fascinating!
+END;
+
+Q: Can you help me with query 384?
+A: Of course, I'm here to help with query 384!
+END;
+
+Q: What can you tell me about topic 385?
+A: I can tell you some interesting facts about topic 385.
+END;
+
+Q: How do you feel about subject 385?
+A: I think subject 385 is quite fascinating!
+END;
+
+Q: Can you help me with query 385?
+A: Of course, I'm here to help with query 385!
+END;
+
+Q: What can you tell me about topic 386?
+A: I can tell you some interesting facts about topic 386.
+END;
+
+Q: How do you feel about subject 386?
+A: I think subject 386 is quite fascinating!
+END;
+
+Q: Can you help me with query 386?
+A: Of course, I'm here to help with query 386!
+END;
+
+Q: What can you tell me about topic 387?
+A: I can tell you some interesting facts about topic 387.
+END;
+
+Q: How do you feel about subject 387?
+A: I think subject 387 is quite fascinating!
+END;
+
+Q: Can you help me with query 387?
+A: Of course, I'm here to help with query 387!
+END;
+
+Q: What can you tell me about topic 388?
+A: I can tell you some interesting facts about topic 388.
+END;
+
+Q: How do you feel about subject 388?
+A: I think subject 388 is quite fascinating!
+END;
+
+Q: Can you help me with query 388?
+A: Of course, I'm here to help with query 388!
+END;
+
+Q: What can you tell me about topic 389?
+A: I can tell you some interesting facts about topic 389.
+END;
+
+Q: How do you feel about subject 389?
+A: I think subject 389 is quite fascinating!
+END;
+
+Q: Can you help me with query 389?
+A: Of course, I'm here to help with query 389!
+END;
+
+Q: What can you tell me about topic 390?
+A: I can tell you some interesting facts about topic 390.
+END;
+
+Q: How do you feel about subject 390?
+A: I think subject 390 is quite fascinating!
+END;
+
+Q: Can you help me with query 390?
+A: Of course, I'm here to help with query 390!
+END;
+
+Q: What can you tell me about topic 391?
+A: I can tell you some interesting facts about topic 391.
+END;
+
+Q: How do you feel about subject 391?
+A: I think subject 391 is quite fascinating!
+END;
+
+Q: Can you help me with query 391?
+A: Of course, I'm here to help with query 391!
+END;
+
+Q: What can you tell me about topic 392?
+A: I can tell you some interesting facts about topic 392.
+END;
+
+Q: How do you feel about subject 392?
+A: I think subject 392 is quite fascinating!
+END;
+
+Q: Can you help me with query 392?
+A: Of course, I'm here to help with query 392!
+END;
+
+Q: What can you tell me about topic 393?
+A: I can tell you some interesting facts about topic 393.
+END;
+
+Q: How do you feel about subject 393?
+A: I think subject 393 is quite fascinating!
+END;
+
+Q: Can you help me with query 393?
+A: Of course, I'm here to help with query 393!
+END;
+
+Q: What can you tell me about topic 394?
+A: I can tell you some interesting facts about topic 394.
+END;
+
+Q: How do you feel about subject 394?
+A: I think subject 394 is quite fascinating!
+END;
+
+Q: Can you help me with query 394?
+A: Of course, I'm here to help with query 394!
+END;
+
+Q: What can you tell me about topic 395?
+A: I can tell you some interesting facts about topic 395.
+END;
+
+Q: How do you feel about subject 395?
+A: I think subject 395 is quite fascinating!
+END;
+
+Q: Can you help me with query 395?
+A: Of course, I'm here to help with query 395!
+END;
+
+Q: What can you tell me about topic 396?
+A: I can tell you some interesting facts about topic 396.
+END;
+
+Q: How do you feel about subject 396?
+A: I think subject 396 is quite fascinating!
+END;
+
+Q: Can you help me with query 396?
+A: Of course, I'm here to help with query 396!
+END;
+
+Q: What can you tell me about topic 397?
+A: I can tell you some interesting facts about topic 397.
+END;
+
+Q: How do you feel about subject 397?
+A: I think subject 397 is quite fascinating!
+END;
+
+Q: Can you help me with query 397?
+A: Of course, I'm here to help with query 397!
+END;
+
+Q: What can you tell me about topic 398?
+A: I can tell you some interesting facts about topic 398.
+END;
+
+Q: How do you feel about subject 398?
+A: I think subject 398 is quite fascinating!
+END;
+
+Q: Can you help me with query 398?
+A: Of course, I'm here to help with query 398!
+END;
+
+Q: What can you tell me about topic 399?
+A: I can tell you some interesting facts about topic 399.
+END;
+
+Q: How do you feel about subject 399?
+A: I think subject 399 is quite fascinating!
+END;
+
+Q: Can you help me with query 399?
+A: Of course, I'm here to help with query 399!
+END;
+
+Q: What can you tell me about topic 400?
+A: I can tell you some interesting facts about topic 400.
+END;
+
+Q: How do you feel about subject 400?
+A: I think subject 400 is quite fascinating!
+END;
+
+Q: Can you help me with query 400?
+A: Of course, I'm here to help with query 400!
+END;
+
+Q: What can you tell me about topic 401?
+A: I can tell you some interesting facts about topic 401.
+END;
+
+Q: How do you feel about subject 401?
+A: I think subject 401 is quite fascinating!
+END;
+
+Q: Can you help me with query 401?
+A: Of course, I'm here to help with query 401!
+END;
+
+Q: What can you tell me about topic 402?
+A: I can tell you some interesting facts about topic 402.
+END;
+
+Q: How do you feel about subject 402?
+A: I think subject 402 is quite fascinating!
+END;
+
+Q: Can you help me with query 402?
+A: Of course, I'm here to help with query 402!
+END;
+
+Q: What can you tell me about topic 403?
+A: I can tell you some interesting facts about topic 403.
+END;
+
+Q: How do you feel about subject 403?
+A: I think subject 403 is quite fascinating!
+END;
+
+Q: Can you help me with query 403?
+A: Of course, I'm here to help with query 403!
+END;
+
+Q: What can you tell me about topic 404?
+A: I can tell you some interesting facts about topic 404.
+END;
+
+Q: How do you feel about subject 404?
+A: I think subject 404 is quite fascinating!
+END;
+
+Q: Can you help me with query 404?
+A: Of course, I'm here to help with query 404!
+END;
+
+Q: What can you tell me about topic 405?
+A: I can tell you some interesting facts about topic 405.
+END;
+
+Q: How do you feel about subject 405?
+A: I think subject 405 is quite fascinating!
+END;
+
+Q: Can you help me with query 405?
+A: Of course, I'm here to help with query 405!
+END;
+
+Q: What can you tell me about topic 406?
+A: I can tell you some interesting facts about topic 406.
+END;
+
+Q: How do you feel about subject 406?
+A: I think subject 406 is quite fascinating!
+END;
+
+Q: Can you help me with query 406?
+A: Of course, I'm here to help with query 406!
+END;
+
+Q: What can you tell me about topic 407?
+A: I can tell you some interesting facts about topic 407.
+END;
+
+Q: How do you feel about subject 407?
+A: I think subject 407 is quite fascinating!
+END;
+
+Q: Can you help me with query 407?
+A: Of course, I'm here to help with query 407!
+END;
+
+Q: What can you tell me about topic 408?
+A: I can tell you some interesting facts about topic 408.
+END;
+
+Q: How do you feel about subject 408?
+A: I think subject 408 is quite fascinating!
+END;
+
+Q: Can you help me with query 408?
+A: Of course, I'm here to help with query 408!
+END;
+
+Q: What can you tell me about topic 409?
+A: I can tell you some interesting facts about topic 409.
+END;
+
+Q: How do you feel about subject 409?
+A: I think subject 409 is quite fascinating!
+END;
+
+Q: Can you help me with query 409?
+A: Of course, I'm here to help with query 409!
+END;
+
+Q: What can you tell me about topic 410?
+A: I can tell you some interesting facts about topic 410.
+END;
+
+Q: How do you feel about subject 410?
+A: I think subject 410 is quite fascinating!
+END;
+
+Q: Can you help me with query 410?
+A: Of course, I'm here to help with query 410!
+END;
+
+Q: What can you tell me about topic 411?
+A: I can tell you some interesting facts about topic 411.
+END;
+
+Q: How do you feel about subject 411?
+A: I think subject 411 is quite fascinating!
+END;
+
+Q: Can you help me with query 411?
+A: Of course, I'm here to help with query 411!
+END;
+
+Q: What can you tell me about topic 412?
+A: I can tell you some interesting facts about topic 412.
+END;
+
+Q: How do you feel about subject 412?
+A: I think subject 412 is quite fascinating!
+END;
+
+Q: Can you help me with query 412?
+A: Of course, I'm here to help with query 412!
+END;
+
+Q: What can you tell me about topic 413?
+A: I can tell you some interesting facts about topic 413.
+END;
+
+Q: How do you feel about subject 413?
+A: I think subject 413 is quite fascinating!
+END;
+
+Q: Can you help me with query 413?
+A: Of course, I'm here to help with query 413!
+END;
+
+Q: What can you tell me about topic 414?
+A: I can tell you some interesting facts about topic 414.
+END;
+
+Q: How do you feel about subject 414?
+A: I think subject 414 is quite fascinating!
+END;
+
+Q: Can you help me with query 414?
+A: Of course, I'm here to help with query 414!
+END;
+
+Q: What can you tell me about topic 415?
+A: I can tell you some interesting facts about topic 415.
+END;
+
+Q: How do you feel about subject 415?
+A: I think subject 415 is quite fascinating!
+END;
+
+Q: Can you help me with query 415?
+A: Of course, I'm here to help with query 415!
+END;
+
+Q: What can you tell me about topic 416?
+A: I can tell you some interesting facts about topic 416.
+END;
+
+Q: How do you feel about subject 416?
+A: I think subject 416 is quite fascinating!
+END;
+
+Q: Can you help me with query 416?
+A: Of course, I'm here to help with query 416!
+END;
+
+Q: What can you tell me about topic 417?
+A: I can tell you some interesting facts about topic 417.
+END;
+
+Q: How do you feel about subject 417?
+A: I think subject 417 is quite fascinating!
+END;
+
+Q: Can you help me with query 417?
+A: Of course, I'm here to help with query 417!
+END;
+
+Q: What can you tell me about topic 418?
+A: I can tell you some interesting facts about topic 418.
+END;
+
+Q: How do you feel about subject 418?
+A: I think subject 418 is quite fascinating!
+END;
+
+Q: Can you help me with query 418?
+A: Of course, I'm here to help with query 418!
+END;
+
+Q: What can you tell me about topic 419?
+A: I can tell you some interesting facts about topic 419.
+END;
+
+Q: How do you feel about subject 419?
+A: I think subject 419 is quite fascinating!
+END;
+
+Q: Can you help me with query 419?
+A: Of course, I'm here to help with query 419!
+END;
+
