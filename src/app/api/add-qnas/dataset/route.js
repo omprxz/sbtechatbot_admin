@@ -8,7 +8,12 @@ import csvParser from 'csv-parser';
 import ExcelJS from 'exceljs';
 
 const MAX_FILE_SIZE = (parseInt(process.env.MAX_EACH_DATASET_FILE_SIZE_MB) || 10) * 1024 * 1024;
-const uploadDir = path.join(process.cwd(), 'tmp');
+let uploadDir;
+if(process.env.SERVER_NAME == "vercel"){
+    uploadDir = "/tmp";
+}else{
+ uploadDir = path.join(process.cwd(), 'tmp');
+}
 if (!fs.existsSync(uploadDir)) fs.mkdirSync(uploadDir, { recursive: true });
 
 export const POST = async (req) => {
