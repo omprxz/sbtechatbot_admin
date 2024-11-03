@@ -8,7 +8,7 @@ import csvParser from 'csv-parser';
 import ExcelJS from 'exceljs';
 
 const MAX_FILE_SIZE = (parseInt(process.env.MAX_EACH_DATASET_FILE_SIZE_MB) || 10) * 1024 * 1024;
-const uploadDir = path.join(process.cwd(), 'uploads', 'datasets');
+const uploadDir = path.join(process.cwd(), 'tmp');
 if (!fs.existsSync(uploadDir)) fs.mkdirSync(uploadDir, { recursive: true });
 
 export const POST = async (req) => {
@@ -36,6 +36,7 @@ export const POST = async (req) => {
     }
 
     const uniqueId = randomUUID().slice(0, 10);
+    const originalFileName = path.basename(file.name);
     const fileName = `${path.basename(file.name, `.${fileExt}`)}_${uniqueId}.${fileExt}`;
     const filePath = path.join(uploadDir, fileName);
 
@@ -108,6 +109,9 @@ export const POST = async (req) => {
         });
         return NextResponse.json({ message: 'Invalid file content format' }, { status: 400 });
     }
+    fs.unlink(filePath, (err) => {
+        if (err) console.error('Error deleting file:', err);
+    });
     
 
     let connection;
@@ -115,7 +119,7 @@ export const POST = async (req) => {
         connection = await db();
         const [result] = await connection.execute(
             `INSERT INTO dataset_files (name, type, category, size, ip, created_by, status) VALUES (?, ?, ?, ?, ?, ?, ?)`,
-            [fileName, fileExt, category, fileSize, ip, user.id, status]
+            [originalFileName, fileExt, category, fileSize, ip, user.id, status]
         );
 
         const fileId = result.insertId;
@@ -125,7 +129,7 @@ await connection.query(
     [values]
 );
 
-        return NextResponse.json({ message: 'Dataset uploaded and questions are added' });
+        return NextResponse.json({ message: 'Dataset questions are added' });
     } catch (error) {
         console.error('Database error:', error);
         return NextResponse.json({ message: 'An error occurred while saving to the database.', error: error.message }, { status: 500 });

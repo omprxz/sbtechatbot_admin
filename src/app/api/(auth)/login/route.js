@@ -4,8 +4,6 @@ import { db } from "@/libs/db";
 import jwt from "jsonwebtoken";
 import { cookies } from "next/headers";
 
-const JWT_SECRET = process.env.JWT_SECRET;
-
 export async function GET() {
     const cookieStore = await cookies();
     return NextResponse.json({ message: "Login", token: cookieStore.get("token")?.value }, { status: 200 });
@@ -13,6 +11,7 @@ export async function GET() {
 
 export async function POST(req) {
     const { email, password } = await req.json();
+    const JWT_SECRET = process.env.JWT_SECRET;
     if (!email || !password) {
         return NextResponse.json({ message: "Email and password are required" }, { status: 400 });
     }

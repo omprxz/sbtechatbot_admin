@@ -6,7 +6,7 @@ import { useState } from "react";
 
 const DatasetCard = ({ dataset, categories, onUpdate, onDelete }) => {
     const router = useRouter();
-    const [loading, setLoading] = useState(false); // Loading state for update and delete
+    const [loading, setLoading] = useState(false);
 
     const handleUpdateCategory = async (category) => {
         setLoading(true);
@@ -28,16 +28,16 @@ const DatasetCard = ({ dataset, categories, onUpdate, onDelete }) => {
                 <p><strong>Size:</strong> {(dataset.size / 1024).toFixed(2)} KB</p>
                 <p><strong>Created By:</strong> {dataset.created_by_name}</p>
                 <p><strong>Created At:</strong> {dayjs(dataset.created_at).format("DD MMM YYYY hh:mm A")}</p>
-                <p><strong>Access Link:</strong> 
+                {dataset?.access_link && <p><strong>Access Link:</strong> 
                     <a 
-                        href={dataset.access_link || `/api/datasets/${dataset.name}`} 
+                        href={dataset.access_link} 
                         target="_blank" 
                         rel="noopener noreferrer"
                         className="text-blue-500 underline ml-1"
                     >
-                        {dataset.access_link || 'View Dataset'}
+                        {dataset.access_link}
                     </a>
-                </p>
+                </p>}
 
                 {/* Category Dropdown */}
                 <div className="my-2">
@@ -46,7 +46,7 @@ const DatasetCard = ({ dataset, categories, onUpdate, onDelete }) => {
                         className="select select-bordered w-full"
                         value={dataset.category}
                         onChange={(e) => handleUpdateCategory(e.target.value)}
-                        disabled={loading} // Disable while loading
+                        disabled={loading}
                     >
                         <option disabled value="">Select a category</option>
                         {categories.map(category => (
@@ -62,7 +62,7 @@ const DatasetCard = ({ dataset, categories, onUpdate, onDelete }) => {
                         className="select select-bordered w-full"
                         value={dataset.status}
                         onChange={(e) => handleUpdateStatus(e.target.value)}
-                        disabled={loading} // Disable while loading
+                        disabled={loading}
                     >
                         <option value="active">Active</option>
                         <option value="inactive">Inactive</option>
@@ -79,14 +79,14 @@ const DatasetCard = ({ dataset, categories, onUpdate, onDelete }) => {
                             setLoading(false);
                         }
                     }}
-                    disabled={loading} // Disable while loading
+                    disabled={loading}
                 >
                     Delete
                 </button>
                 <button
                     className={`btn btn-primary btn-sm ${loading ? 'loading' : ''}`}
                     onClick={() => router.push(`/dashboard/dataset/${dataset.id}`)}
-                    disabled={loading} // Disable while loading
+                    disabled={loading}
                 >
                     Update
                 </button>

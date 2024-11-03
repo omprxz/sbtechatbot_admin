@@ -69,14 +69,17 @@ export async function POST(req) {
                     );
 
                     if (fileDetails.length === 0) {
-                        return NextResponse.json({ message: "File not found" }, { status: 404 });
+                        return NextResponse.json({ message: "File data not found" }, { status: 404 });
                     }
 
                     const fileName = fileDetails[0].name;
-                    const filePath = path.join(process.cwd(), 'uploads', 'datasets', fileName);
+                    const filePath = path.join(process.cwd(), 'tmp', fileName);
 
-                    // Await the unlink operation to ensure the file is deleted
+                    try{
                     await fs.unlink(filePath);
+                    }catch(e){
+                        console.log(e?.message)
+                    }
 
                     const [resultDelete] = await connection.execute(
                         "DELETE FROM dataset_files WHERE id = ?",
